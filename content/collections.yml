@@ -1,0 +1,28 @@
+{
+  "collections": [
+    {
+      "id": "spain",
+      "title": "西班牙 · 10",
+      "description": "西班牙著名景点插画",
+      "order": 0
+    },
+    {
+      "id": "china",
+      "title": "中国 · 10",
+      "description": "中国著名景点插画",
+      "order": 1
+    },
+    {
+      "id": "japan",
+      "title": "日本 · 10",
+      "description": "日本著名景点插画",
+      "order": 2
+    },
+    {
+      "id": "usa",
+      "title": "美国 · 10",
+      "description": "美国著名景点插画",
+      "order": 3
+    }
+  ]
+}

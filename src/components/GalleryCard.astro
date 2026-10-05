@@ -1,0 +1,41 @@
+---
+import type { ImageManifest } from '../lib/schema';
+import { withBase } from '../lib/paths';
+
+type Props = {
+  image: ImageManifest;
+  index: number;
+};
+
+const { image, index } = Astro.props;
+const thumb = image.variants.thumb;
+const avifSrcset = thumb.avif.map((variant) => `${withBase(variant.src)} ${variant.width}w`).join(', ');
+const webpSrcset = thumb.webp.map((variant) => `${withBase(variant.src)} ${variant.width}w`).join(', ');
+const jpegSrcset = thumb.jpeg.map((variant) => `${withBase(variant.src)} ${variant.width}w`).join(', ');
+const fallback = thumb.jpeg[0];
+---
+<article class="gallery-card" data-gallery-card data-image-id={image.id} data-collection={image.collection}>
+  <button
+    class="gallery-card__button"
+    type="button"
+    data-gallery-open={image.id}
+    aria-label={`打开图片：${image.alt}`}
+  >
+    <picture>
+      <source type="image/avif" srcset={avifSrcset} sizes="(min-width: 1100px) 31vw, (min-width: 700px) 47vw, 94vw" />
+      <source type="image/webp" srcset={webpSrcset} sizes="(min-width: 1100px) 31vw, (min-width: 700px) 47vw, 94vw" />
+      <img
+        src={withBase(fallback.src)}
+        srcset={jpegSrcset}
+        sizes="(min-width: 1100px) 31vw, (min-width: 700px) 47vw, 94vw"
+        width={image.width}
+        height={image.height}
+        alt={image.alt}
+        loading={index === 0 ? 'eager' : 'lazy'}
+        fetchpriority={index === 0 ? 'high' : 'auto'}
+        decoding="async"
+      />
+    </picture>
+  </button>
+  {image.caption && <p class="gallery-card__caption">{image.caption}</p>}
+</article>

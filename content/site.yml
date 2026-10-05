@@ -1,0 +1,35 @@
+{
+  "title": "世界景点 · 纸上旅行",
+  "description": "四个国家，40 幅风景。用明亮色块与纸张肌理，漫游城市、建筑与山川。AI 生成插画 · v1.0.0",
+  "language": "zh-CN",
+  "style": {
+    "theme": "minimal"
+  },
+  "features": {
+    "download": true,
+    "share": true
+  },
+  "layout": {
+    "mode": "grid",
+    "batchSize": 24,
+    "maxOutputBytes": 150000000,
+    "thumbWidths": [
+      480,
+      768
+    ],
+    "detailWidths": [
+      960,
+      1440,
+      1920
+    ],
+    "quality": {
+      "avif": 55,
+      "webp": 78,
+      "jpeg": 84
+    }
+  },
+  "analytics": {
+    "enabled": true,
+    "provider": "umami"
+  }
+}

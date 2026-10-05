@@ -1,0 +1,165 @@
+{
+  "image_directory": "/Users/sym/Documents/Codex/2026-10-05/x20/outputs/world-landmarks/incoming",
+  "images": [
+    {
+      "source": "china/bund.png",
+      "bytes": 2813633
+    },
+    {
+      "source": "china/forbidden-city.png",
+      "bytes": 3148017
+    },
+    {
+      "source": "china/great-wall.png",
+      "bytes": 3065814
+    },
+    {
+      "source": "china/huangshan.png",
+      "bytes": 3021979
+    },
+    {
+      "source": "china/li-river.png",
+      "bytes": 2885042
+    },
+    {
+      "source": "china/potala.png",
+      "bytes": 2975043
+    },
+    {
+      "source": "china/suzhou-garden.png",
+      "bytes": 3330213
+    },
+    {
+      "source": "china/temple-of-heaven.png",
+      "bytes": 3002343
+    },
+    {
+      "source": "china/west-lake.png",
+      "bytes": 2852631
+    },
+    {
+      "source": "china/zhangjiajie.png",
+      "bytes": 3200949
+    },
+    {
+      "source": "japan/fuji-kawaguchi.png",
+      "bytes": 3095604
+    },
+    {
+      "source": "japan/fushimi-inari.png",
+      "bytes": 3168294
+    },
+    {
+      "source": "japan/himeji-castle.png",
+      "bytes": 3200901
+    },
+    {
+      "source": "japan/itsukushima-torii.png",
+      "bytes": 2940855
+    },
+    {
+      "source": "japan/kinkaku-ji.png",
+      "bytes": 3173401
+    },
+    {
+      "source": "japan/kiyomizu-dera.png",
+      "bytes": 2977955
+    },
+    {
+      "source": "japan/osaka-castle.png",
+      "bytes": 3028324
+    },
+    {
+      "source": "japan/senso-ji.png",
+      "bytes": 2679465
+    },
+    {
+      "source": "japan/shirakawa-go.png",
+      "bytes": 3060846
+    },
+    {
+      "source": "japan/tokyo-tower.png",
+      "bytes": 3059192
+    },
+    {
+      "source": "spain/alhambra.png",
+      "bytes": 3092238
+    },
+    {
+      "source": "spain/guggenheim.png",
+      "bytes": 2995781
+    },
+    {
+      "source": "spain/madrid-palace.png",
+      "bytes": 3036086
+    },
+    {
+      "source": "spain/mezquita.png",
+      "bytes": 3164105
+    },
+    {
+      "source": "spain/park-guell.png",
+      "bytes": 2978243
+    },
+    {
+      "source": "spain/plaza-espana.png",
+      "bytes": 3099609
+    },
+    {
+      "source": "spain/ronda-bridge.png",
+      "bytes": 3183199
+    },
+    {
+      "source": "spain/sagrada-familia.png",
+      "bytes": 2997723
+    },
+    {
+      "source": "spain/santiago-cathedral.png",
+      "bytes": 3056150
+    },
+    {
+      "source": "spain/segovia-aqueduct.png",
+      "bytes": 3163391
+    },
+    {
+      "source": "usa/cloud-gate.png",
+      "bytes": 3287285
+    },
+    {
+      "source": "usa/gateway-arch.png",
+      "bytes": 2858965
+    },
+    {
+      "source": "usa/golden-gate.png",
+      "bytes": 3042681
+    },
+    {
+      "source": "usa/grand-canyon.png",
+      "bytes": 2970261
+    },
+    {
+      "source": "usa/mount-rushmore.png",
+      "bytes": 3272326
+    },
+    {
+      "source": "usa/space-needle.png",
+      "bytes": 3151936
+    },
+    {
+      "source": "usa/statue-of-liberty.png",
+      "bytes": 2873483
+    },
+    {
+      "source": "usa/white-house.png",
+      "bytes": 3095916
+    },
+    {
+      "source": "usa/yellowstone.png",
+      "bytes": 2958783
+    },
+    {
+      "source": "usa/yosemite.png",
+      "bytes": 3140615
+    }
+  ]
+}

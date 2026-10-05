@@ -1,0 +1,284 @@
+{
+  "images": [
+    {
+      "source": "spain/sagrada-familia.png",
+      "collection": "spain",
+      "alt": "明亮天空下，尖塔群从街角与树冠间升起。",
+      "caption": "圣家堂 · 巴塞罗那",
+      "slug": "spain-spain-sagrada-familia"
+    },
+    {
+      "source": "spain/park-guell.png",
+      "collection": "spain",
+      "alt": "曲线彩陶长椅与童话般的门房俯瞰城市。",
+      "caption": "古埃尔公园 · 巴塞罗那",
+      "slug": "spain-spain-park-guell"
+    },
+    {
+      "source": "spain/alhambra.png",
+      "collection": "spain",
+      "alt": "傍晚的赭红宫墙横卧山脊，远山泛着紫色。",
+      "caption": "阿尔罕布拉宫 · 格拉纳达",
+      "slug": "spain-spain-alhambra"
+    },
+    {
+      "source": "spain/plaza-espana.png",
+      "collection": "spain",
+      "alt": "拱桥、运河与半圆形砖红长廊映在初夏光里。",
+      "caption": "西班牙广场 · 塞维利亚",
+      "slug": "spain-spain-plaza-espana"
+    },
+    {
+      "source": "spain/mezquita.png",
+      "collection": "spain",
+      "alt": "橘树庭院里，石造钟楼与深蓝树影交织。",
+      "caption": "科尔多瓦清真寺庭院 · 科尔多瓦",
+      "slug": "spain-spain-mezquita"
+    },
+    {
+      "source": "spain/segovia-aqueduct.png",
+      "collection": "spain",
+      "alt": "双层石拱横跨广场，冬日薄雪衬出温暖石色。",
+      "caption": "塞哥维亚古罗马水道桥 · 塞哥维亚",
+      "slug": "spain-spain-segovia-aqueduct"
+    },
+    {
+      "source": "spain/madrid-palace.png",
+      "collection": "spain",
+      "alt": "淡色宫殿与修剪花园，在秋叶和长影间展开。",
+      "caption": "马德里王宫 · 马德里",
+      "slug": "spain-spain-madrid-palace"
+    },
+    {
+      "source": "spain/guggenheim.png",
+      "collection": "spain",
+      "alt": "银色曲面在雨后的河岸映成蓝灰色剪影。",
+      "caption": "古根海姆博物馆 · 毕尔巴鄂",
+      "slug": "spain-spain-guggenheim"
+    },
+    {
+      "source": "spain/ronda-bridge.png",
+      "collection": "spain",
+      "alt": "巨大的石桥跨过深峡谷，白色山城立于崖顶。",
+      "caption": "龙达新桥 · 龙达",
+      "slug": "spain-spain-ronda-bridge"
+    },
+    {
+      "source": "spain/santiago-cathedral.png",
+      "collection": "spain",
+      "alt": "雨后广场倒映双塔，少量旅人穿过银蓝地面。",
+      "caption": "圣地亚哥大教堂 · 圣地亚哥-德孔波斯特拉",
+      "slug": "spain-spain-santiago-cathedral"
+    },
+    {
+      "source": "china/great-wall.png",
+      "collection": "china",
+      "alt": "石砌城墙沿山脊蜿蜒，秋叶与远山层层展开。",
+      "caption": "慕田峪长城 · 北京",
+      "slug": "china-china-great-wall"
+    },
+    {
+      "source": "china/forbidden-city.png",
+      "collection": "china",
+      "alt": "金色宫殿屋顶与朱红院墙，在冬日积雪中格外鲜明。",
+      "caption": "故宫 · 北京",
+      "slug": "china-china-forbidden-city"
+    },
+    {
+      "source": "china/temple-of-heaven.png",
+      "collection": "china",
+      "alt": "祈年殿的三重蓝瓦屋顶，映衬春日玉兰与白石台基。",
+      "caption": "天坛 · 北京",
+      "slug": "china-china-temple-heaven"
+    },
+    {
+      "source": "china/bund.png",
+      "collection": "china",
+      "alt": "浦江渡轮穿过蓝色水面，外滩历史建筑沿岸展开。",
+      "caption": "外滩 · 上海",
+      "slug": "china-china-bund"
+    },
+    {
+      "source": "china/west-lake.png",
+      "collection": "china",
+      "alt": "暮色中的雷峰塔、湖面倒影与荷叶，构成柔和的湖景。",
+      "caption": "西湖·雷峰塔 · 杭州",
+      "slug": "china-china-west-lake"
+    },
+    {
+      "source": "china/suzhou-garden.png",
+      "collection": "china",
+      "alt": "白墙、月洞门与荷池，描绘江南园林的曲折空间。",
+      "caption": "拙政园 · 苏州",
+      "slug": "china-china-suzhou-garden"
+    },
+    {
+      "source": "china/li-river.png",
+      "collection": "china",
+      "alt": "竹筏与倒影穿行于峰林之间，呈现漓江的山水轮廓。",
+      "caption": "漓江 · 桂林",
+      "slug": "china-china-li-river"
+    },
+    {
+      "source": "china/zhangjiajie.png",
+      "collection": "china",
+      "alt": "细长砂岩峰柱从绿色峡谷中拔起，云雾沿谷地流动。",
+      "caption": "张家界 · 张家界",
+      "slug": "china-china-zhangjiajie"
+    },
+    {
+      "source": "china/huangshan.png",
+      "collection": "china",
+      "alt": "花岗岩峰与迎客松立于云海之上，晨光点亮山石。",
+      "caption": "黄山 · 黄山",
+      "slug": "china-china-huangshan"
+    },
+    {
+      "source": "china/potala.png",
+      "collection": "china",
+      "alt": "红白宫墙依山层叠，金色屋顶映衬高原的湛蓝天空。",
+      "caption": "布达拉宫 · 拉萨",
+      "slug": "china-china-potala"
+    },
+    {
+      "source": "japan/fuji-kawaguchi.png",
+      "collection": "japan",
+      "alt": "从湖畔望向富士山，春日樱花与蓝色湖水相映。",
+      "caption": "富士山与河口湖 · 富士河口湖",
+      "slug": "japan-japan-fuji-kawaguchi"
+    },
+    {
+      "source": "japan/fushimi-inari.png",
+      "collection": "japan",
+      "alt": "朱红鸟居沿石阶层层延伸，浓绿山林包围参道。",
+      "caption": "伏见稻荷大社 · 京都",
+      "slug": "japan-japan-fushimi-inari"
+    },
+    {
+      "source": "japan/kiyomizu-dera.png",
+      "collection": "japan",
+      "alt": "高大的木造舞台伸出秋色山林，远处是京都城景。",
+      "caption": "清水寺 · 京都",
+      "slug": "japan-japan-kiyomizu-dera"
+    },
+    {
+      "source": "japan/kinkaku-ji.png",
+      "collection": "japan",
+      "alt": "金色楼阁映在镜湖池中，松树与小岛环绕水面。",
+      "caption": "金阁寺 · 京都",
+      "slug": "japan-japan-kinkaku-ji"
+    },
+    {
+      "source": "japan/senso-ji.png",
+      "collection": "japan",
+      "alt": "浅草寺的朱红殿堂与五重塔，在雨后街石上留下倒影。",
+      "caption": "浅草寺 · 东京",
+      "slug": "japan-japan-senso-ji"
+    },
+    {
+      "source": "japan/tokyo-tower.png",
+      "collection": "japan",
+      "alt": "橙白相间的铁塔穿过城市屋顶，黄昏将街道染成暖色。",
+      "caption": "东京塔 · 东京",
+      "slug": "japan-japan-tokyo-tower"
+    },
+    {
+      "source": "japan/osaka-castle.png",
+      "collection": "japan",
+      "alt": "青绿色屋顶与金色细节的大阪城，矗立在护城河上方。",
+      "caption": "大阪城 · 大阪",
+      "slug": "japan-japan-osaka-castle"
+    },
+    {
+      "source": "japan/himeji-castle.png",
+      "collection": "japan",
+      "alt": "洁白城楼与重叠屋檐，在春樱和清朗天空之间展开。",
+      "caption": "姬路城 · 姬路",
+      "slug": "japan-japan-himeji-castle"
+    },
+    {
+      "source": "japan/itsukushima-torii.png",
+      "collection": "japan",
+      "alt": "涨潮时的朱红大鸟居立在海中，远处山岛连成蓝色轮廓。",
+      "caption": "严岛神社大鸟居 · 宫岛",
+      "slug": "japan-japan-itsukushima-torii"
+    },
+    {
+      "source": "japan/shirakawa-go.png",
+      "collection": "japan",
+      "alt": "积雪盖住陡峭的合掌屋顶，暖色窗灯点亮冬日村落。",
+      "caption": "白川乡合掌村 · 白川村",
+      "slug": "japan-japan-shirakawa-go"
+    },
+    {
+      "source": "usa/statue-of-liberty.png",
+      "collection": "usa",
+      "alt": "青绿色雕像立于海港，渡船掠过蓝色水面。",
+      "caption": "自由女神像 · 纽约",
+      "slug": "usa-statue-of-liberty"
+    },
+    {
+      "source": "usa/golden-gate.png",
+      "collection": "usa",
+      "alt": "朱红色悬索桥跨过海湾，雾气与山坡交织。",
+      "caption": "金门大桥 · 旧金山",
+      "slug": "usa-golden-gate"
+    },
+    {
+      "source": "usa/grand-canyon.png",
+      "collection": "usa",
+      "alt": "层叠的红色峡谷间，一线河水蜿蜒远去。",
+      "caption": "大峡谷 · 亚利桑那州",
+      "slug": "usa-grand-canyon"
+    },
+    {
+      "source": "usa/yosemite.png",
+      "collection": "usa",
+      "alt": "花岗岩峭壁、瀑布与松林围绕静静流淌的河水。",
+      "caption": "优胜美地山谷 · 加利福尼亚州",
+      "slug": "usa-yosemite"
+    },
+    {
+      "source": "usa/yellowstone.png",
+      "collection": "usa",
+      "alt": "蓝色温泉被橙黄色菌毯环绕，白色蒸汽飘向松林。",
+      "caption": "大棱镜温泉 · 怀俄明州",
+      "slug": "usa-yellowstone"
+    },
+    {
+      "source": "usa/white-house.png",
+      "collection": "usa",
+      "alt": "白色柱廊映着春日草坪，花树在画面边缘盛开。",
+      "caption": "白宫 · 华盛顿哥伦比亚特区",
+      "slug": "usa-white-house"
+    },
+    {
+      "source": "usa/mount-rushmore.png",
+      "collection": "usa",
+      "alt": "四座总统头像刻于岩壁，山脚是一片深绿松林。",
+      "caption": "拉什莫尔山 · 南达科他州",
+      "slug": "usa-mount-rushmore"
+    },
+    {
+      "source": "usa/gateway-arch.png",
+      "collection": "usa",
+      "alt": "银色拱门高耸于河岸，秋树与小船点缀其间。",
+      "caption": "圣路易斯拱门 · 圣路易斯",
+      "slug": "usa-gateway-arch"
+    },
+    {
+      "source": "usa/cloud-gate.png",
+      "collection": "usa",
+      "alt": "豆形镜面雕塑映出广场与城市，高楼间透出雨后天光。",
+      "caption": "云门 · 芝加哥",
+      "slug": "usa-cloud-gate"
+    },
+    {
+      "source": "usa/space-needle.png",
+      "collection": "usa",
+      "alt": "飞碟形塔顶耸立城市上空，远处雪山露出轮廓。",
+      "caption": "太空针塔 · 西雅图",
+      "slug": "usa-space-needle"
+    }
+  ]
+}

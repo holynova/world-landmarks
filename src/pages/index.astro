@@ -1,0 +1,93 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import GalleryCard from '../components/GalleryCard.astro';
+import { CollectionsConfigSchema, ManifestSchema, SiteConfigSchema } from '../lib/schema';
+import siteData from '../data/site.json';
+import collectionsData from '../data/collections.json';
+import manifestData from '../data/manifest.json';
+
+const site = SiteConfigSchema.parse(siteData);
+const collections = CollectionsConfigSchema.parse(collectionsData).collections.toSorted((a, b) => a.order - b.order);
+const manifest = ManifestSchema.parse(manifestData);
+const initialImages = manifest.images.slice(0, site.layout.batchSize);
+const remainingImages = manifest.images.length - initialImages.length;
+const manifestJson = JSON.stringify(manifest).replace(/</g, '\\u003c');
+const configJson = JSON.stringify({
+  features: site.features,
+  batchSize: site.layout.batchSize,
+  layoutMode: site.layout.mode,
+}).replace(/</g, '\\u003c');
+---
+<BaseLayout site={site}>
+  <main class="site-shell">
+    <header class="site-header">
+      <div>
+        <h1>{site.title}</h1>
+        <p class="site-description">{site.description}</p>
+      </div>
+      <div class="site-header__actions">
+        <p class="image-count" aria-live="polite"><span id="visible-count">{initialImages.length}</span> / <span id="matched-count">{manifest.images.length}</span></p>
+      </div>
+    </header>
+
+    <nav class="collection-nav" aria-label="图片栏目">
+      <button type="button" class="filter-button is-active" data-collection-filter="all" aria-pressed="true">全部</button>
+      {collections.map((collection) => (
+        <button type="button" class="filter-button" data-collection-filter={collection.id} aria-pressed="false">
+          {collection.title}
+        </button>
+      ))}
+    </nav>
+
+    <section
+      class="gallery"
+      data-gallery
+      data-layout={site.layout.mode}
+      aria-label="图片画廊"
+    >
+      {initialImages.map((image, index) => <GalleryCard image={image} index={index} />)}
+    </section>
+    {remainingImages > 0 && <div id="gallery-sentinel" class="gallery-sentinel" aria-hidden="true"></div>}
+    <button id="gallery-load-more" class="load-more" type="button" hidden={remainingImages === 0}>加载更多</button>
+
+    <dialog id="lightbox" class="lightbox" aria-labelledby="lightbox-caption">
+      <div class="lightbox__surface">
+        <div class="lightbox__toolbar">
+          <p id="lightbox-position" class="lightbox__position" aria-live="polite"></p>
+          <button class="icon-button" type="button" data-lightbox-close aria-label="关闭图片预览">关闭</button>
+        </div>
+        <div class="lightbox__media" data-lightbox-media>
+          <picture>
+            <source data-lightbox-avif type="image/avif" />
+            <source data-lightbox-webp type="image/webp" />
+            <img
+              data-lightbox-image
+              src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw=="
+              width="1"
+              height="1"
+              alt=""
+              decoding="async"
+            />
+          </picture>
+        </div>
+        <div class="lightbox__footer">
+          <p id="lightbox-caption" data-lightbox-caption></p>
+          <div class="lightbox__actions">
+            <button class="icon-button" type="button" data-lightbox-prev aria-label="上一张">上一张</button>
+            <button class="icon-button" type="button" data-lightbox-next aria-label="下一张">下一张</button>
+            {site.features.download && <a class="icon-button" data-lightbox-download download>下载</a>}
+            {site.features.share && <button class="icon-button" type="button" data-lightbox-share>分享</button>}
+          </div>
+        </div>
+      </div>
+    </dialog>
+
+    <footer class="site-footer">
+      <span>{site.title}</span>
+    </footer>
+
+    <script type="application/json" id="gallery-manifest" set:html={manifestJson}></script>
+    <script type="application/json" id="gallery-config" set:html={configJson}></script>
+    <script src="../scripts/gallery.ts"></script>
+  </main>
+</BaseLayout>
