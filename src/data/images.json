@@ -349,6 +349,76 @@
       "alt": "红色缆车悬于雪山与松林上空，淡黄色太阳点亮冬日天空。",
       "caption": "雪山缆车 · 多样风景",
       "slug": "scenes-05-snow-cable-car"
+    },
+    {
+      "source": "korea/gyeongbokgung.png",
+      "collection": "korea",
+      "alt": "覆雪的宫殿屋顶与红色木柱映着冬日庭院。",
+      "caption": "景福宫 · 首尔",
+      "slug": "korea-gyeongbokgung"
+    },
+    {
+      "source": "korea/changdeokgung.png",
+      "collection": "korea",
+      "alt": "后苑池水映着亭阁与层叠秋叶，石阶穿过静谧园林。",
+      "caption": "昌德宫后苑 · 首尔",
+      "slug": "korea-changdeokgung"
+    },
+    {
+      "source": "korea/bukchon.png",
+      "collection": "korea",
+      "alt": "雨后石巷在灰瓦韩屋之间延伸，暖色窗光映着湿润路面。",
+      "caption": "北村韩屋村 · 首尔",
+      "slug": "korea-bukchon"
+    },
+    {
+      "source": "korea/n-seoul-tower.png",
+      "collection": "korea",
+      "alt": "细长塔身从南山树冠间升起，远处城市融入暮色。",
+      "caption": "南山首尔塔 · 首尔",
+      "slug": "korea-n-seoul-tower"
+    },
+    {
+      "source": "korea/gamcheon.png",
+      "collection": "korea",
+      "alt": "彩色小屋层层铺满山坡，阶梯与小巷通向远处海湾。",
+      "caption": "甘川文化村 · 釜山",
+      "slug": "korea-gamcheon"
+    },
+    {
+      "source": "korea/haedong-yonggungsa.png",
+      "collection": "korea",
+      "alt": "灰瓦寺庙倚着海边岩岸，白色浪花拍过石阶与露台。",
+      "caption": "海东龙宫寺 · 釜山",
+      "slug": "korea-haedong-yonggungsa"
+    },
+    {
+      "source": "korea/hwaseong.png",
+      "collection": "korea",
+      "alt": "灰色城墙沿草坡展开，亭阁与柳树倒映在池水中。",
+      "caption": "水原华城 · 水原",
+      "slug": "korea-hwaseong"
+    },
+    {
+      "source": "korea/bulguksa.png",
+      "collection": "korea",
+      "alt": "宽阔石阶托起韩式殿宇，春樱在古寺边缘轻轻盛开。",
+      "caption": "佛国寺 · 庆州",
+      "slug": "korea-bulguksa"
+    },
+    {
+      "source": "korea/seongsan-ilchulbong.png",
+      "collection": "korea",
+      "alt": "青绿火山口高踞海面，陡峭岩壁与蓝色海湾形成鲜明层次。",
+      "caption": "城山日出峰 · 济州岛",
+      "slug": "korea-seongsan-ilchulbong"
+    },
+    {
+      "source": "korea/nami-island.png",
+      "collection": "korea",
+      "alt": "两排金色高树围成林荫大道，落叶铺满通向远处的小路。",
+      "caption": "南怡岛 · 春川",
+      "slug": "korea-nami-island"
     }
   ]
 }

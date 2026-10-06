@@ -35,6 +35,12 @@
       "title": "美国 · 10",
       "description": "美国著名景点插画",
       "order": 5
+    },
+    {
+      "id": "korea",
+      "title": "韩国 · 10",
+      "description": "韩国古建、城市与自然景点插画",
+      "order": 6
     }
   ]
 }

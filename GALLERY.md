@@ -13,3 +13,5 @@ Publisher-requested customization (user explicitly invoked hn-project-publisher)
 User-requested lightbox customization (v1.0.2): portrait details fit available screen height in one view. Fixed viewport dialog and explicit minmax(0,1fr) media row prevent intrinsic image size from expanding the grid. Picture fills the constrained area and image scales with object-fit:contain. Header/footer controls retain their own rows; page gallery unchanged. Expected template differences: index.astro publisher footer and global.css lightbox rules.
 
 v1.0.3: adds all ten earlier originals in seaside/ and scenes/, two groups of five. Fifty unique PNGs total; six filters; existing forty preserved. Output budget grows to 200 MB for the expanded derivative library. Height-fit lightbox rules retained. Original-download release target updated to v1.0.3.
+
+v1.0.4: ten Korean landmark PNGs using hn-paper-gouache required reference images; total sixty; seven collections. Full source URLs and prompts preserved. Existing height-fit lightbox retained.

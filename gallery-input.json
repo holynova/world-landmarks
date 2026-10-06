@@ -82,6 +82,46 @@
       "bytes": 3059192
     },
     {
+      "source": "korea/bukchon.png",
+      "bytes": 3187247
+    },
+    {
+      "source": "korea/bulguksa.png",
+      "bytes": 3264612
+    },
+    {
+      "source": "korea/changdeokgung.png",
+      "bytes": 3560007
+    },
+    {
+      "source": "korea/gamcheon.png",
+      "bytes": 2994624
+    },
+    {
+      "source": "korea/gyeongbokgung.png",
+      "bytes": 2889061
+    },
+    {
+      "source": "korea/haedong-yonggungsa.png",
+      "bytes": 3055160
+    },
+    {
+      "source": "korea/hwaseong.png",
+      "bytes": 3163000
+    },
+    {
+      "source": "korea/n-seoul-tower.png",
+      "bytes": 3036096
+    },
+    {
+      "source": "korea/nami-island.png",
+      "bytes": 3109161
+    },
+    {
+      "source": "korea/seongsan-ilchulbong.png",
+      "bytes": 2955265
+    },
+    {
       "source": "scenes/01-mountain-train.png",
       "bytes": 3174449
     },

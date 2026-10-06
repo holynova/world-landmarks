@@ -8,7 +8,8 @@
     "spain",
     "china",
     "japan",
-    "usa"
+    "usa",
+    "korea"
   ],
   "images": [
     {
@@ -2726,6 +2727,1366 @@
               "src": "/media/japan-japan-tokyo-tower/detail-1024.jpg",
               "format": "jpeg",
               "bytes": 311035
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "image-korea-bukchon",
+      "slug": "korea-bukchon",
+      "source": "korea/bukchon.png",
+      "sourceHash": "90c8a2e7f5e15beaec1d0e5bb18917c68a1114be114b94b35ecc286fcb3509d2",
+      "width": 1024,
+      "height": 1536,
+      "format": "png",
+      "collection": "korea",
+      "alt": "雨后石巷在灰瓦韩屋之间延伸，暖色窗光映着湿润路面。",
+      "caption": "北村韩屋村 · 首尔",
+      "placeholder": "data:image/jpeg;base64,/9j/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wgARCAAwACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABAMCAQX/xAAXAQEAAwAAAAAAAAAAAAAAAAACAQME/9oADAMBAAIQAxAAAAHi/PrBbmx7gS2N49HZWlYU4nqGgTho/wD/xAAfEAADAAEEAwEAAAAAAAAAAAAAAQIRAxIiMSEyM0H/2gAIAQEAAQUCTNLYytMmMiWVGae6Uat8X2zeebHDlyNGcUhLj0V9M4f7Bfv/AP/EABoRAAICAwAAAAAAAAAAAAAAAAABETESE0H/2gAIAQMBAT8B1qzBSWJQcLP/xAAZEQEAAwEBAAAAAAAAAAAAAAABABExEgP/2gAIAQIBAT8BfVcnbUpMnSx2BTU//8QAHxAAAgEDBQEAAAAAAAAAAAAAAAEhAhAxESJBYYFR/9oACAEBAAY/Ap5OyCYIx8OyWR6JpCdvDaU64FyJWppEhWpnF//EABwQAQADAQEBAQEAAAAAAAAAAAEAESFBMVFhcf/aAAgBAQABPyGqh74ryok+/qMK0qdCAQVrrkrS6HbyJyhfyE52MV8xBaFB5cwKhk9Wyi2wxaw4ziC61ABGOvyFA2/WetzJomz+Th60wVQ5KbNrEoQYjVIXwT//2gAMAwEAAgADAAAAEKsacujv/8QAGREAAwEBAQAAAAAAAAAAAAAAAAERIUGR/9oACAEDAQE/EI5K48FEdQl6dUbSU//EABkRAQEBAQEBAAAAAAAAAAAAAAEAEUExcf/aAAgBAgEBPxAfFHqH7ltOpGQcZL0X/8QAHhABAAIDAAMBAQAAAAAAAAAAAQARITFBUWFxgeH/2gAIAQEAAT8QWhXX4Dso9IbNZlzbQHRAssOYywgoFoz7EIXsOiPsoLRkuymlYA2J8jToKrWaJnGDA9Ff2OpE2d9RMGbRnWiPiCWHnajyq/sLES+AL2sSjFHQcyy+i3vXjkJRNYOGnfqWIuEAOREbq0cSVOBJRoxKaBxcxCfv2EagaSzPuf/Z",
+      "variants": {
+        "thumb": {
+          "avif": [
+            {
+              "width": 480,
+              "height": 720,
+              "src": "/media/korea-bukchon/thumb-480.avif",
+              "format": "avif",
+              "bytes": 59313
+            },
+            {
+              "width": 768,
+              "height": 1152,
+              "src": "/media/korea-bukchon/thumb-768.avif",
+              "format": "avif",
+              "bytes": 128400
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/korea-bukchon/thumb-1024.avif",
+              "format": "avif",
+              "bytes": 203797
+            }
+          ],
+          "webp": [
+            {
+              "width": 480,
+              "height": 720,
+              "src": "/media/korea-bukchon/thumb-480.webp",
+              "format": "webp",
+              "bytes": 89698
+            },
+            {
+              "width": 768,
+              "height": 1152,
+              "src": "/media/korea-bukchon/thumb-768.webp",
+              "format": "webp",
+              "bytes": 191506
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/korea-bukchon/thumb-1024.webp",
+              "format": "webp",
+              "bytes": 315812
+            }
+          ],
+          "jpeg": [
+            {
+              "width": 480,
+              "height": 720,
+              "src": "/media/korea-bukchon/thumb-480.jpg",
+              "format": "jpeg",
+              "bytes": 104165
+            },
+            {
+              "width": 768,
+              "height": 1152,
+              "src": "/media/korea-bukchon/thumb-768.jpg",
+              "format": "jpeg",
+              "bytes": 238143
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/korea-bukchon/thumb-1024.jpg",
+              "format": "jpeg",
+              "bytes": 390359
+            }
+          ]
+        },
+        "detail": {
+          "avif": [
+            {
+              "width": 960,
+              "height": 1440,
+              "src": "/media/korea-bukchon/detail-960.avif",
+              "format": "avif",
+              "bytes": 183726
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/korea-bukchon/detail-1024.avif",
+              "format": "avif",
+              "bytes": 203797
+            }
+          ],
+          "webp": [
+            {
+              "width": 960,
+              "height": 1440,
+              "src": "/media/korea-bukchon/detail-960.webp",
+              "format": "webp",
+              "bytes": 275362
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/korea-bukchon/detail-1024.webp",
+              "format": "webp",
+              "bytes": 315812
+            }
+          ],
+          "jpeg": [
+            {
+              "width": 960,
+              "height": 1440,
+              "src": "/media/korea-bukchon/detail-960.jpg",
+              "format": "jpeg",
+              "bytes": 348787
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/korea-bukchon/detail-1024.jpg",
+              "format": "jpeg",
+              "bytes": 390359
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "image-korea-bulguksa",
+      "slug": "korea-bulguksa",
+      "source": "korea/bulguksa.png",
+      "sourceHash": "fbc429566f6ef4e2f7d1ec86817213a511972ee9940fadf6f457620130c531a8",
+      "width": 1024,
+      "height": 1536,
+      "format": "png",
+      "collection": "korea",
+      "alt": "宽阔石阶托起韩式殿宇，春樱在古寺边缘轻轻盛开。",
+      "caption": "佛国寺 · 庆州",
+      "placeholder": "data:image/jpeg;base64,/9j/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wgARCAAwACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAQIDBAX/xAAXAQEBAQEAAAAAAAAAAAAAAAABAgMA/9oADAMBAAIQAxAAAAHas8c90cxDjZaCN5xeyJNxZbHYUf/EAB0QAAICAwEBAQAAAAAAAAAAAAECABEDEiExEzL/2gAIAQEAAQUC7RPBj2OTZC7BDv1cxthGIdf03zEZTeogNxiVl3ByAkT2dE8jURjPCJ//xAAbEQACAQUAAAAAAAAAAAAAAAAAASECEBESMf/aAAgBAwEBPwGrL4aJEjmzk//EABoRAAICAwAAAAAAAAAAAAAAAAABESECA0H/2gAIAQIBAT8BmDPbQk+kUIVH/8QAIxAAAQMCBQUAAAAAAAAAAAAAAAERIQIQIjFhcaESMkFRYv/aAAgBAQAGPwJ0xDoo9UDHzpZpUwckC0qhCsTJGehSvkqf2bna+xkLzZrKh0qf/8QAHhABAAMBAAIDAQAAAAAAAAAAAQARITFRYXGBkdH/2gAIAQEAAT8hoBFHhqDaxe17jJbb1AjHyQBdD/DBFrH3N5oVAHS+WEKb+plDjElucw1Q68goIrpOGUAerqLaIYuYaXjYkWoOv8RKlfKRK2XPKKmLUpBT6rsNcEZrdhGnOM//2gAMAwEAAgADAAAAEHl5ZBPP/8QAGREBAQADAQAAAAAAAAAAAAAAAQAhMUFx/9oACAEDAQE/EACR9EvUTabBf//EABsRAQADAAMBAAAAAAAAAAAAAAEAETEhUYHw/9oACAECAQE/EBIYjyzq6+9gF1FtiZvbl3P/xAAiEAEAAgICAgEFAAAAAAAAAAABABEhMUFhUXGBkaGx0eH/2gAIAQEAAT8QUUDoDnXiJBY07o2s/U5fmBtcEtzjJR331BNUtm2yzk8ZlnZNmkXUwAxjuUehar37z59QOi7wfjiWu0lCbXm/iLCFvGnumPNUVo28XCVViVg6IBFbwbzr3UXFawuHP4xKmIXT0P7F98axQ9tn2lAIRWol6XxCfQwRg9m564AsTHCrQoGqhbQte8x0PTPFnmBKjcc2fSf/2Q==",
+      "variants": {
+        "thumb": {
+          "avif": [
+            {
+              "width": 480,
+              "height": 720,
+              "src": "/media/korea-bulguksa/thumb-480.avif",
+              "format": "avif",
+              "bytes": 67903
+            },
+            {
+              "width": 768,
+              "height": 1152,
+              "src": "/media/korea-bulguksa/thumb-768.avif",
+              "format": "avif",
+              "bytes": 145937
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/korea-bulguksa/thumb-1024.avif",
+              "format": "avif",
+              "bytes": 231176
+            }
+          ],
+          "webp": [
+            {
+              "width": 480,
+              "height": 720,
+              "src": "/media/korea-bulguksa/thumb-480.webp",
+              "format": "webp",
+              "bytes": 103832
+            },
+            {
+              "width": 768,
+              "height": 1152,
+              "src": "/media/korea-bulguksa/thumb-768.webp",
+              "format": "webp",
+              "bytes": 215976
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/korea-bulguksa/thumb-1024.webp",
+              "format": "webp",
+              "bytes": 346306
+            }
+          ],
+          "jpeg": [
+            {
+              "width": 480,
+              "height": 720,
+              "src": "/media/korea-bulguksa/thumb-480.jpg",
+              "format": "jpeg",
+              "bytes": 116740
+            },
+            {
+              "width": 768,
+              "height": 1152,
+              "src": "/media/korea-bulguksa/thumb-768.jpg",
+              "format": "jpeg",
+              "bytes": 262412
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/korea-bulguksa/thumb-1024.jpg",
+              "format": "jpeg",
+              "bytes": 426153
+            }
+          ]
+        },
+        "detail": {
+          "avif": [
+            {
+              "width": 960,
+              "height": 1440,
+              "src": "/media/korea-bulguksa/detail-960.avif",
+              "format": "avif",
+              "bytes": 208025
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/korea-bulguksa/detail-1024.avif",
+              "format": "avif",
+              "bytes": 231176
+            }
+          ],
+          "webp": [
+            {
+              "width": 960,
+              "height": 1440,
+              "src": "/media/korea-bulguksa/detail-960.webp",
+              "format": "webp",
+              "bytes": 303598
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/korea-bulguksa/detail-1024.webp",
+              "format": "webp",
+              "bytes": 346306
+            }
+          ],
+          "jpeg": [
+            {
+              "width": 960,
+              "height": 1440,
+              "src": "/media/korea-bulguksa/detail-960.jpg",
+              "format": "jpeg",
+              "bytes": 381489
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/korea-bulguksa/detail-1024.jpg",
+              "format": "jpeg",
+              "bytes": 426153
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "image-korea-changdeokgung",
+      "slug": "korea-changdeokgung",
+      "source": "korea/changdeokgung.png",
+      "sourceHash": "f5a67fe262e883138f82066d04fef7fbcd31ae9a1eee6f593f44e8645720af9c",
+      "width": 1024,
+      "height": 1536,
+      "format": "png",
+      "collection": "korea",
+      "alt": "后苑池水映着亭阁与层叠秋叶，石阶穿过静谧园林。",
+      "caption": "昌德宫后苑 · 首尔",
+      "placeholder": "data:image/jpeg;base64,/9j/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wgARCAAwACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAgMBAAT/xAAXAQADAQAAAAAAAAAAAAAAAAABAgME/9oADAMBAAIQAxAAAAGaNMmzaSNc+csMwyXHpoGtJTrAr//EABwQAAICAwEBAAAAAAAAAAAAAAABAhESE0EQIf/aAAgBAQABBQLtCNjIp+pCJlfGqjx3WDrkLktZUkTqImryeLY5H//EABoRAAMAAwEAAAAAAAAAAAAAAAABAgMRMSL/2gAIAQMBAT8B2X66ZapdIvY6El1H/8QAGREBAQADAQAAAAAAAAAAAAAAAQACEiEx/9oACAECAQE/AYUOWAMlpI+X/8QAHRAAAQQDAQEAAAAAAAAAAAAAAAEQESExQVECIv/aAAgBAQAGPwKMl72RkREh8NTV6alh+GHguUU6aQ+kk//EAB8QAQACAwEBAAMBAAAAAAAAAAEAESExUUFhcYGRsf/aAAgBAQABPyEfxM6gR58OzBwCdjaBdSEHvsrund9i2V/ZCq/PnkoGTqtXLHjdZnpCkffcysrF6XKsMjuOgEclf27Evb52XQQ8yalmnJ/k2gLGK3RMxwO3Dboguvkn/9oADAMBAAIAAwAAABCvy1pOr//EABwRAQEBAAEFAAAAAAAAAAAAAAERADEhgZHw8f/aAAgBAwEBPxDhXlwUCLffupwh5O2RkK4RmOy67//EABkRAQADAQEAAAAAAAAAAAAAAAEAESFB8P/aAAgBAgEBPxBxyMEURWzYYbkvVQAJaPcn/8QAIhABAAICAQQCAwAAAAAAAAAAAQARITFRQWFxgZHRweHw/9oACAEBAAE/EN0YKJtjF/24RxUehX07SxFZwE+ITNrAv1mUM2i2YR4Zi2ctBVXL9wFNENFZ8wwanU/ggA2GzqPeM3S0aeMMCVFuctPubYzvYe/csq0bCpCsYQFtuKqJHK7YOQM/VBROFWALcRM3oN+V/E1xbtdO9Q7WbW8BFxWLTXjtBmAXaieQmHDyZuAoxvLg7M//2Q==",
+      "variants": {
+        "thumb": {
+          "avif": [
+            {
+              "width": 480,
+              "height": 720,
+              "src": "/media/korea-changdeokgung/thumb-480.avif",
+              "format": "avif",
+              "bytes": 74737
+            },
+            {
+              "width": 768,
+              "height": 1152,
+              "src": "/media/korea-changdeokgung/thumb-768.avif",
+              "format": "avif",
+              "bytes": 170988
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/korea-changdeokgung/thumb-1024.avif",
+              "format": "avif",
+              "bytes": 272661
+            }
+          ],
+          "webp": [
+            {
+              "width": 480,
+              "height": 720,
+              "src": "/media/korea-changdeokgung/thumb-480.webp",
+              "format": "webp",
+              "bytes": 120092
+            },
+            {
+              "width": 768,
+              "height": 1152,
+              "src": "/media/korea-changdeokgung/thumb-768.webp",
+              "format": "webp",
+              "bytes": 267732
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/korea-changdeokgung/thumb-1024.webp",
+              "format": "webp",
+              "bytes": 438438
+            }
+          ],
+          "jpeg": [
+            {
+              "width": 480,
+              "height": 720,
+              "src": "/media/korea-changdeokgung/thumb-480.jpg",
+              "format": "jpeg",
+              "bytes": 124247
+            },
+            {
+              "width": 768,
+              "height": 1152,
+              "src": "/media/korea-changdeokgung/thumb-768.jpg",
+              "format": "jpeg",
+              "bytes": 294538
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/korea-changdeokgung/thumb-1024.jpg",
+              "format": "jpeg",
+              "bytes": 489567
+            }
+          ]
+        },
+        "detail": {
+          "avif": [
+            {
+              "width": 960,
+              "height": 1440,
+              "src": "/media/korea-changdeokgung/detail-960.avif",
+              "format": "avif",
+              "bytes": 245978
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/korea-changdeokgung/detail-1024.avif",
+              "format": "avif",
+              "bytes": 272661
+            }
+          ],
+          "webp": [
+            {
+              "width": 960,
+              "height": 1440,
+              "src": "/media/korea-changdeokgung/detail-960.webp",
+              "format": "webp",
+              "bytes": 379214
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/korea-changdeokgung/detail-1024.webp",
+              "format": "webp",
+              "bytes": 438438
+            }
+          ],
+          "jpeg": [
+            {
+              "width": 960,
+              "height": 1440,
+              "src": "/media/korea-changdeokgung/detail-960.jpg",
+              "format": "jpeg",
+              "bytes": 436320
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/korea-changdeokgung/detail-1024.jpg",
+              "format": "jpeg",
+              "bytes": 489567
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "image-korea-gamcheon",
+      "slug": "korea-gamcheon",
+      "source": "korea/gamcheon.png",
+      "sourceHash": "ff1cd08c747ccddf390126381f308b04082fd09082d6f1dca9e3dac10b91ccff",
+      "width": 1024,
+      "height": 1536,
+      "format": "png",
+      "collection": "korea",
+      "alt": "彩色小屋层层铺满山坡，阶梯与小巷通向远处海湾。",
+      "caption": "甘川文化村 · 釜山",
+      "placeholder": "data:image/jpeg;base64,/9j/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wgARCAAwACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAQIDBAD/xAAZAQACAwEAAAAAAAAAAAAAAAAAAgEDBAX/2gAMAwEAAhADEAAAAbuitS4Seimlcmjn6ync8pdy6wkc4f/EAB0QAAICAwEBAQAAAAAAAAAAAAECABEDEiEQIjH/2gAIAQEAAQUCRlpsfShE08oCEVLitfh4StzEmxU3LsfswzWy3yS4lMBQjkWT3//EABkRAAMBAQEAAAAAAAAAAAAAAAABEQISA//aAAgBAwEBPwF4qGkhxnNIZ9OT/8QAGxEAAgIDAQAAAAAAAAAAAAAAAAECEQMSIjH/2gAIAQIBAT8BjNx9Excs2ooyQdWf/8QAIRAAAQMDBAMAAAAAAAAAAAAAAAECERAiUSExYZESMkH/2gAIAQEABj8C8XpHJpWKexkhSfhwpgiRWupabSNLndE5ITYuNE6p/8QAIBABAAICAgIDAQAAAAAAAAAAAQARITFBUWFxgZGh4f/aAAgBAQABPyHYMyBkK4zFMkt4PbMtI94xFFBffKRdKfEsde0QLqJhgB+d7lF1VDebXHUa/h4YNNkEPU0DQXq6ihzte3DMVHzP9nBuhiSQvqGVSiCpy12w7Cx2OU7hi1/c/9oADAMBAAIAAwAAABDHgtejv//EABsRAQEBAAIDAAAAAAAAAAAAAAERACExUYHR/9oACAEDAQE/EDSHXpykSZTTS07nPm/MSA6lTvf/xAAdEQADAAEFAQAAAAAAAAAAAAAAARGBITFBodHw/9oACAECAQE/EHUa3IxqpjOBMVb/AGRJrPehpU4P/8QAIBABAAICAgIDAQAAAAAAAAAAAQARITFBYVFxgaGx0f/aAAgBAQABPxDnbeinhlDcnYjKxZ2ZGDg31AMWlmxLavfDDNDdArgXniAqq5FH5CxYnm31NNkBjslSAbgLAGricUApSh/sp2Kuz6X3E5Dk2OOYglfCuQ/sohDSKkCvuEHBCqA68NkCFbYfGnwgECqy05yt/HMpMY3s+fqVLuMHPqXIkWlVb1BAAldD4xqIxPEm/ZLoqXaXMz//2Q==",
+      "variants": {
+        "thumb": {
+          "avif": [
+            {
+              "width": 480,
+              "height": 720,
+              "src": "/media/korea-gamcheon/thumb-480.avif",
+              "format": "avif",
+              "bytes": 53271
+            },
+            {
+              "width": 768,
+              "height": 1152,
+              "src": "/media/korea-gamcheon/thumb-768.avif",
+              "format": "avif",
+              "bytes": 117297
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/korea-gamcheon/thumb-1024.avif",
+              "format": "avif",
+              "bytes": 192032
+            }
+          ],
+          "webp": [
+            {
+              "width": 480,
+              "height": 720,
+              "src": "/media/korea-gamcheon/thumb-480.webp",
+              "format": "webp",
+              "bytes": 81236
+            },
+            {
+              "width": 768,
+              "height": 1152,
+              "src": "/media/korea-gamcheon/thumb-768.webp",
+              "format": "webp",
+              "bytes": 176506
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/korea-gamcheon/thumb-1024.webp",
+              "format": "webp",
+              "bytes": 276322
+            }
+          ],
+          "jpeg": [
+            {
+              "width": 480,
+              "height": 720,
+              "src": "/media/korea-gamcheon/thumb-480.jpg",
+              "format": "jpeg",
+              "bytes": 100487
+            },
+            {
+              "width": 768,
+              "height": 1152,
+              "src": "/media/korea-gamcheon/thumb-768.jpg",
+              "format": "jpeg",
+              "bytes": 226255
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/korea-gamcheon/thumb-1024.jpg",
+              "format": "jpeg",
+              "bytes": 367102
+            }
+          ]
+        },
+        "detail": {
+          "avif": [
+            {
+              "width": 960,
+              "height": 1440,
+              "src": "/media/korea-gamcheon/detail-960.avif",
+              "format": "avif",
+              "bytes": 172714
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/korea-gamcheon/detail-1024.avif",
+              "format": "avif",
+              "bytes": 192032
+            }
+          ],
+          "webp": [
+            {
+              "width": 960,
+              "height": 1440,
+              "src": "/media/korea-gamcheon/detail-960.webp",
+              "format": "webp",
+              "bytes": 248554
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/korea-gamcheon/detail-1024.webp",
+              "format": "webp",
+              "bytes": 276322
+            }
+          ],
+          "jpeg": [
+            {
+              "width": 960,
+              "height": 1440,
+              "src": "/media/korea-gamcheon/detail-960.jpg",
+              "format": "jpeg",
+              "bytes": 329072
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/korea-gamcheon/detail-1024.jpg",
+              "format": "jpeg",
+              "bytes": 367102
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "image-korea-gyeongbokgung",
+      "slug": "korea-gyeongbokgung",
+      "source": "korea/gyeongbokgung.png",
+      "sourceHash": "b3addab4baea69b91e46affdfe3ff592e00f54619922b12f1bedc44251611c91",
+      "width": 1024,
+      "height": 1536,
+      "format": "png",
+      "collection": "korea",
+      "alt": "覆雪的宫殿屋顶与红色木柱映着冬日庭院。",
+      "caption": "景福宫 · 首尔",
+      "placeholder": "data:image/jpeg;base64,/9j/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wgARCAAwACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAgMEAAH/xAAWAQEBAQAAAAAAAAAAAAAAAAABBAL/2gAMAwEAAhADEAAAAaUvGqVeI0mBpzUoYeFN8FDm/s7h/8QAHRAAAgIDAAMAAAAAAAAAAAAAAQIAEQMSIRATIP/aAAgBAQABBQI4j8FhLvwCsHDZu2ilprFwCjgno6EKhMgacMoRG0mw2qLP/8QAGREBAQEAAwAAAAAAAAAAAAAAAAERAhJB/9oACAEDAQE/AbJ46pxYjX//xAAaEQACAgMAAAAAAAAAAAAAAAAAARAREiFB/9oACAECAQE/AU30sb0ZRR//xAAjEAABAQgBBQAAAAAAAAAAAAAAAQIQERIhIjFBYSAyUaGx/9oACAEBAAY/AvPRaquqhU4O5GeDRj2IjUuNGSBovmhpU0JK7BZfFBJosfCKVd//xAAeEAEAAgICAwEAAAAAAAAAAAABABEhMVFhQXGBkf/aAAgBAQABPyEOsOpUqVAxtWW18QUzQcTVDfUvRu18n7Lk4mvCcD8tRDSHthaAt6JlDcqWYJeMpOzpDViHyD4iRqlZxKqupQVpEKt0LdeyOIvUKcIHuX4r0z//2gAMAwEAAgADAAAAEORaJLW//8QAGBEAAwEBAAAAAAAAAAAAAAAAAAERIfH/2gAIAQMBAT8Qq6FRoOxoJm4f/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAR/9oACAECAQE/EBEc2MMMhJDb/8QAIhABAAICAgEEAwAAAAAAAAAAAQARITFRgUFhcZHwELHR/9oACAEBAAE/EH8QC1hzz+LB5ncePe4gUc4WvcQVUYA296j9u5WTbiwFRLNUE5hewSArT31Atv7tTtYh8Q8ppKITk8WekVaNuhhrfUAI1QYd2X25+YAvgtpVjxn0zcQcakcm8qKzAqus2I/czPB02e8ogaaAsI4ZswKmKsrXmV1gEXKfNJojIzryqev5LN1cL+nU/9k=",
+      "variants": {
+        "thumb": {
+          "avif": [
+            {
+              "width": 480,
+              "height": 720,
+              "src": "/media/korea-gyeongbokgung/thumb-480.avif",
+              "format": "avif",
+              "bytes": 47123
+            },
+            {
+              "width": 768,
+              "height": 1152,
+              "src": "/media/korea-gyeongbokgung/thumb-768.avif",
+              "format": "avif",
+              "bytes": 106157
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/korea-gyeongbokgung/thumb-1024.avif",
+              "format": "avif",
+              "bytes": 176471
+            }
+          ],
+          "webp": [
+            {
+              "width": 480,
+              "height": 720,
+              "src": "/media/korea-gyeongbokgung/thumb-480.webp",
+              "format": "webp",
+              "bytes": 72528
+            },
+            {
+              "width": 768,
+              "height": 1152,
+              "src": "/media/korea-gyeongbokgung/thumb-768.webp",
+              "format": "webp",
+              "bytes": 161326
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/korea-gyeongbokgung/thumb-1024.webp",
+              "format": "webp",
+              "bytes": 263816
+            }
+          ],
+          "jpeg": [
+            {
+              "width": 480,
+              "height": 720,
+              "src": "/media/korea-gyeongbokgung/thumb-480.jpg",
+              "format": "jpeg",
+              "bytes": 90454
+            },
+            {
+              "width": 768,
+              "height": 1152,
+              "src": "/media/korea-gyeongbokgung/thumb-768.jpg",
+              "format": "jpeg",
+              "bytes": 207465
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/korea-gyeongbokgung/thumb-1024.jpg",
+              "format": "jpeg",
+              "bytes": 341615
+            }
+          ]
+        },
+        "detail": {
+          "avif": [
+            {
+              "width": 960,
+              "height": 1440,
+              "src": "/media/korea-gyeongbokgung/detail-960.avif",
+              "format": "avif",
+              "bytes": 157253
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/korea-gyeongbokgung/detail-1024.avif",
+              "format": "avif",
+              "bytes": 176471
+            }
+          ],
+          "webp": [
+            {
+              "width": 960,
+              "height": 1440,
+              "src": "/media/korea-gyeongbokgung/detail-960.webp",
+              "format": "webp",
+              "bytes": 230554
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/korea-gyeongbokgung/detail-1024.webp",
+              "format": "webp",
+              "bytes": 263816
+            }
+          ],
+          "jpeg": [
+            {
+              "width": 960,
+              "height": 1440,
+              "src": "/media/korea-gyeongbokgung/detail-960.jpg",
+              "format": "jpeg",
+              "bytes": 305848
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/korea-gyeongbokgung/detail-1024.jpg",
+              "format": "jpeg",
+              "bytes": 341615
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "image-korea-haedong-yonggungsa",
+      "slug": "korea-haedong-yonggungsa",
+      "source": "korea/haedong-yonggungsa.png",
+      "sourceHash": "790937623de2d874752b695cab13d84e5fbbf3ffa020bd781fad0dc011cbb325",
+      "width": 1024,
+      "height": 1536,
+      "format": "png",
+      "collection": "korea",
+      "alt": "灰瓦寺庙倚着海边岩岸，白色浪花拍过石阶与露台。",
+      "caption": "海东龙宫寺 · 釜山",
+      "placeholder": "data:image/jpeg;base64,/9j/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wgARCAAwACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAQIDBAAF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/2gAMAwEAAhADEAAAAZuKCJG83H51J6IKYhlsE3zaJGSXVqD/xAAdEAACAgMAAwAAAAAAAAAAAAABAgARAxIhECIx/9oACAEBAAEFAl8BSxIKnhiFZjqmUPAu00ltezRUuKbI9XsRftK54IxExtYHB1CmuSf/xAAcEQABAwUAAAAAAAAAAAAAAAAAAQIhAxARE2H/2gAIAQMBAT8BXhri1TAkj2uP/8QAGxEAAgMAAwAAAAAAAAAAAAAAAAECAxESITH/2gAIAQIBAT8Bjm9isFy8KnhFlc4n/8QAHxAAAgIBBAMAAAAAAAAAAAAAABEBIWEiMVGRAhIy/9oACAEBAAY/AtE1k4wKBSI1NFF7jiRv2FcTg+hxNnGCrLQ/HsmUQqNhUVTF2VR//8QAHBABAAMBAAMBAAAAAAAAAAAAAQARITFBUWGR/9oACAEBAAE/IQj6WkBWGu25KgbHAUkDBuWXOZ7UfIAe/vmbmPaXqJXUIuqFfCAZp6wnx/sw5vvSPtYrRBbYR32yzkVE2Hn6j+xrih1m2dYjyu+ssk+lzp2XHk5KNceZfd08M//aAAwDAQACAAMAAAAQGLCVQ8//xAAbEQEAAgIDAAAAAAAAAAAAAAABABExQSFxof/aAAgBAwEBPxAuI3bhTmCnDT3KCPKGz2f/xAAcEQACAgIDAAAAAAAAAAAAAAAAAREhMfBBUZH/2gAIAQIBAT8Qd0dN3qCFxwM1xlIlD7SWN8MpH//EACAQAQACAgMAAgMAAAAAAAAAAAEAESFBMVFhcYEQkfD/2gAIAQEAAT8QUluTAK2ZjK+rB7fpA9t6OD8JIWxYYLJ2MHSGQEb+7JVAryNvZrz066i0uo0n73cGHks3tdwQkd8L7Jz4DxcwVaFLofMZjFowT3u4zmys3g0QaGRCgq/UMrWl0BFZK18y8m0zYDjIhuLgUGC4Nr8wBDIPl1UPKQVwUTrcZQgQotuGmVTjwAweE/uIMnU2V17P/9k=",
+      "variants": {
+        "thumb": {
+          "avif": [
+            {
+              "width": 480,
+              "height": 720,
+              "src": "/media/korea-haedong-yonggungsa/thumb-480.avif",
+              "format": "avif",
+              "bytes": 60716
+            },
+            {
+              "width": 768,
+              "height": 1152,
+              "src": "/media/korea-haedong-yonggungsa/thumb-768.avif",
+              "format": "avif",
+              "bytes": 131555
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/korea-haedong-yonggungsa/thumb-1024.avif",
+              "format": "avif",
+              "bytes": 210480
+            }
+          ],
+          "webp": [
+            {
+              "width": 480,
+              "height": 720,
+              "src": "/media/korea-haedong-yonggungsa/thumb-480.webp",
+              "format": "webp",
+              "bytes": 96252
+            },
+            {
+              "width": 768,
+              "height": 1152,
+              "src": "/media/korea-haedong-yonggungsa/thumb-768.webp",
+              "format": "webp",
+              "bytes": 204040
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/korea-haedong-yonggungsa/thumb-1024.webp",
+              "format": "webp",
+              "bytes": 318758
+            }
+          ],
+          "jpeg": [
+            {
+              "width": 480,
+              "height": 720,
+              "src": "/media/korea-haedong-yonggungsa/thumb-480.jpg",
+              "format": "jpeg",
+              "bytes": 110659
+            },
+            {
+              "width": 768,
+              "height": 1152,
+              "src": "/media/korea-haedong-yonggungsa/thumb-768.jpg",
+              "format": "jpeg",
+              "bytes": 250456
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/korea-haedong-yonggungsa/thumb-1024.jpg",
+              "format": "jpeg",
+              "bytes": 406782
+            }
+          ]
+        },
+        "detail": {
+          "avif": [
+            {
+              "width": 960,
+              "height": 1440,
+              "src": "/media/korea-haedong-yonggungsa/detail-960.avif",
+              "format": "avif",
+              "bytes": 189953
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/korea-haedong-yonggungsa/detail-1024.avif",
+              "format": "avif",
+              "bytes": 210480
+            }
+          ],
+          "webp": [
+            {
+              "width": 960,
+              "height": 1440,
+              "src": "/media/korea-haedong-yonggungsa/detail-960.webp",
+              "format": "webp",
+              "bytes": 280208
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/korea-haedong-yonggungsa/detail-1024.webp",
+              "format": "webp",
+              "bytes": 318758
+            }
+          ],
+          "jpeg": [
+            {
+              "width": 960,
+              "height": 1440,
+              "src": "/media/korea-haedong-yonggungsa/detail-960.jpg",
+              "format": "jpeg",
+              "bytes": 364850
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/korea-haedong-yonggungsa/detail-1024.jpg",
+              "format": "jpeg",
+              "bytes": 406782
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "image-korea-hwaseong",
+      "slug": "korea-hwaseong",
+      "source": "korea/hwaseong.png",
+      "sourceHash": "b4723c747e7517f2d4f04031cc909008af0d0016351a6bbd0a05ccf38136edfb",
+      "width": 1024,
+      "height": 1536,
+      "format": "png",
+      "collection": "korea",
+      "alt": "灰色城墙沿草坡展开，亭阁与柳树倒映在池水中。",
+      "caption": "水原华城 · 水原",
+      "placeholder": "data:image/jpeg;base64,/9j/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wgARCAAwACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAwECAAX/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQAAf/aAAwDAQACEAMQAAAB5+RKcD6Z2DiEUja87do60RZhsSf/xAAfEAACAgIBBQAAAAAAAAAAAAABAgAREiEDEBMxQUL/2gAIAQEAAQUC8z1gW6dvQS4KUPx5w8gWFmmnYOEPzcBlWKlVFbbZ2jWJiDMsJ//EABsRAAEEAwAAAAAAAAAAAAAAAAABAhEhAxBR/9oACAEDAQE/AbHY+be2bQlYs//EABwRAAICAgMAAAAAAAAAAAAAAAABAhESISIxQf/aAAgBAgEBPwFQVkJ1pmWujJlr0ioyfFn/xAAgEAACAgEDBQAAAAAAAAAAAAAAEQEhEAISMUFRYXGB/9oACAEBAAY/AvoysVls2lJdx6mREcFnotnU8FCEWVwMhH//xAAdEAEAAgMAAwEAAAAAAAAAAAABABEhMUFRYXHB/9oACAEBAAE/IdIuj0tsNfqIjTLZi6z8zKnq7+zxBLj4sVFMLvpMpo5hNeermzZBXDC1jnhl34QAggd3mOjFQmT2PameEVA745BzqIhTtpiDco0Aqe5//9oADAMBAAIAAwAAABA6yKuy7//EABkRAAMBAQEAAAAAAAAAAAAAAAABESExQf/aAAgBAwEBPxBtFEtLq9DzpIsEqEvM/8QAGxEAAwEBAAMAAAAAAAAAAAAAAAERITFBUeH/2gAIAQIBAT8QeW8+EyC9LQ3vvj0QWMIWx//EACIQAQEAAgICAQUBAAAAAAAAAAERACExQVGBcWGRobHR8f/aAAgBAQABPxAV7Cl9yX8YOJ9wdOWQJZVg4gBE6cSHMAHgsfrhAWRes0imVqz/AHIZbMjTmym5oaFw6EEG784lRlSIB/MRGbzdX5cCCFHuLz7MmhSmhTfRghVoSKe8pAAET8OCoytHlvg/uIIEbPJvDmiJo6wEXhEQXeMSS1Vke9+frhkUEByb+8S00b694AKZUc6z/9k=",
+      "variants": {
+        "thumb": {
+          "avif": [
+            {
+              "width": 480,
+              "height": 720,
+              "src": "/media/korea-hwaseong/thumb-480.avif",
+              "format": "avif",
+              "bytes": 59579
+            },
+            {
+              "width": 768,
+              "height": 1152,
+              "src": "/media/korea-hwaseong/thumb-768.avif",
+              "format": "avif",
+              "bytes": 134235
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/korea-hwaseong/thumb-1024.avif",
+              "format": "avif",
+              "bytes": 216224
+            }
+          ],
+          "webp": [
+            {
+              "width": 480,
+              "height": 720,
+              "src": "/media/korea-hwaseong/thumb-480.webp",
+              "format": "webp",
+              "bytes": 93432
+            },
+            {
+              "width": 768,
+              "height": 1152,
+              "src": "/media/korea-hwaseong/thumb-768.webp",
+              "format": "webp",
+              "bytes": 202222
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/korea-hwaseong/thumb-1024.webp",
+              "format": "webp",
+              "bytes": 321676
+            }
+          ],
+          "jpeg": [
+            {
+              "width": 480,
+              "height": 720,
+              "src": "/media/korea-hwaseong/thumb-480.jpg",
+              "format": "jpeg",
+              "bytes": 105483
+            },
+            {
+              "width": 768,
+              "height": 1152,
+              "src": "/media/korea-hwaseong/thumb-768.jpg",
+              "format": "jpeg",
+              "bytes": 241925
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/korea-hwaseong/thumb-1024.jpg",
+              "format": "jpeg",
+              "bytes": 396665
+            }
+          ]
+        },
+        "detail": {
+          "avif": [
+            {
+              "width": 960,
+              "height": 1440,
+              "src": "/media/korea-hwaseong/detail-960.avif",
+              "format": "avif",
+              "bytes": 195219
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/korea-hwaseong/detail-1024.avif",
+              "format": "avif",
+              "bytes": 216224
+            }
+          ],
+          "webp": [
+            {
+              "width": 960,
+              "height": 1440,
+              "src": "/media/korea-hwaseong/detail-960.webp",
+              "format": "webp",
+              "bytes": 279606
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/korea-hwaseong/detail-1024.webp",
+              "format": "webp",
+              "bytes": 321676
+            }
+          ],
+          "jpeg": [
+            {
+              "width": 960,
+              "height": 1440,
+              "src": "/media/korea-hwaseong/detail-960.jpg",
+              "format": "jpeg",
+              "bytes": 355236
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/korea-hwaseong/detail-1024.jpg",
+              "format": "jpeg",
+              "bytes": 396665
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "image-korea-n-seoul-tower",
+      "slug": "korea-n-seoul-tower",
+      "source": "korea/n-seoul-tower.png",
+      "sourceHash": "7ce675d635f3746020ebf631246f77fbd81247eef9fd5904afe06ce0bb34654f",
+      "width": 1024,
+      "height": 1536,
+      "format": "png",
+      "collection": "korea",
+      "alt": "细长塔身从南山树冠间升起，远处城市融入暮色。",
+      "caption": "南山首尔塔 · 首尔",
+      "placeholder": "data:image/jpeg;base64,/9j/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wgARCAAwACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAwQAAQIF/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgME/9oADAMBAAIQAxAAAAFU2WY6c3vWzONnnyDenN2gVch5peWAU//EAB0QAAMAAgMBAQAAAAAAAAAAAAABAhEhEiIxA0H/2gAIAQEAAQUCPxeE5RI9GD5JJaOSFSE8FWdkbGuUbgVC8jqOsjSF5//EABsRAAMAAgMAAAAAAAAAAAAAAAABAhESITFB/9oACAEDAQE/AdvS26Zdtdm5nArT5o//xAAaEQACAwEBAAAAAAAAAAAAAAAAAQIREjEQ/9oACAECAQE/AVG2QSiiFNd8zfTLR//EAB0QAAEEAgMAAAAAAAAAAAAAAAABECExESBRkaH/2gAIAQEABj8CgnvSntrLMkIZaCW5aRV8EP/EACAQAAICAgICAwAAAAAAAAAAAAERADEhQVFhcYEQkbH/2gAIAQEAAT8h7Kr6lBYcNRhkYoOKwTYgtgodwMPPxBSvqYBsRJQB+ZoB9wbBR5hUgeVAC2Z3LsYPET4ujEJAVuZlcNJSGQt9Tgh6cG2HaKGnBj8n/9oADAMBAAIAAwAAABCPAxjpv//EABoRAQACAwEAAAAAAAAAAAAAAAEAESExUXH/2gAIAQMBAT8QGCM9ORUs0DyWLspmqnJHgLZ//8QAGREBAQEBAQEAAAAAAAAAAAAAAQARIUEx/9oACAECAQE/EM4fljiPgPpALzpb0idAOX//xAAiEAEAAwABAwQDAAAAAAAAAAABABEhMUFRYRBxofCBkbH/2gAIAQEAAT8QRQVXCnyhdANx1EJCx5s9ClOO5i3vFyPw6TDrGmdINamYAwtV+5FuK/e4mo0tMId4k0wdYNEGD28e0NZLuqpR1NNCv5ggJjqzPMWmGvMRxCcr+1OpgOiajDe9tl5v7hNQBvVfECtFvyf2UoUJxFdycqtQTlX9xn//2Q==",
+      "variants": {
+        "thumb": {
+          "avif": [
+            {
+              "width": 480,
+              "height": 720,
+              "src": "/media/korea-n-seoul-tower/thumb-480.avif",
+              "format": "avif",
+              "bytes": 51010
+            },
+            {
+              "width": 768,
+              "height": 1152,
+              "src": "/media/korea-n-seoul-tower/thumb-768.avif",
+              "format": "avif",
+              "bytes": 115416
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/korea-n-seoul-tower/thumb-1024.avif",
+              "format": "avif",
+              "bytes": 192398
+            }
+          ],
+          "webp": [
+            {
+              "width": 480,
+              "height": 720,
+              "src": "/media/korea-n-seoul-tower/thumb-480.webp",
+              "format": "webp",
+              "bytes": 71122
+            },
+            {
+              "width": 768,
+              "height": 1152,
+              "src": "/media/korea-n-seoul-tower/thumb-768.webp",
+              "format": "webp",
+              "bytes": 160902
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/korea-n-seoul-tower/thumb-1024.webp",
+              "format": "webp",
+              "bytes": 269060
+            }
+          ],
+          "jpeg": [
+            {
+              "width": 480,
+              "height": 720,
+              "src": "/media/korea-n-seoul-tower/thumb-480.jpg",
+              "format": "jpeg",
+              "bytes": 89948
+            },
+            {
+              "width": 768,
+              "height": 1152,
+              "src": "/media/korea-n-seoul-tower/thumb-768.jpg",
+              "format": "jpeg",
+              "bytes": 205990
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/korea-n-seoul-tower/thumb-1024.jpg",
+              "format": "jpeg",
+              "bytes": 343308
+            }
+          ]
+        },
+        "detail": {
+          "avif": [
+            {
+              "width": 960,
+              "height": 1440,
+              "src": "/media/korea-n-seoul-tower/detail-960.avif",
+              "format": "avif",
+              "bytes": 172499
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/korea-n-seoul-tower/detail-1024.avif",
+              "format": "avif",
+              "bytes": 192398
+            }
+          ],
+          "webp": [
+            {
+              "width": 960,
+              "height": 1440,
+              "src": "/media/korea-n-seoul-tower/detail-960.webp",
+              "format": "webp",
+              "bytes": 230500
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/korea-n-seoul-tower/detail-1024.webp",
+              "format": "webp",
+              "bytes": 269060
+            }
+          ],
+          "jpeg": [
+            {
+              "width": 960,
+              "height": 1440,
+              "src": "/media/korea-n-seoul-tower/detail-960.jpg",
+              "format": "jpeg",
+              "bytes": 306458
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/korea-n-seoul-tower/detail-1024.jpg",
+              "format": "jpeg",
+              "bytes": 343308
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "image-korea-nami-island",
+      "slug": "korea-nami-island",
+      "source": "korea/nami-island.png",
+      "sourceHash": "59e8f169b8c38d1cffe290cc099037c66529a805a289b5f6e11839cf0464320c",
+      "width": 1024,
+      "height": 1536,
+      "format": "png",
+      "collection": "korea",
+      "alt": "两排金色高树围成林荫大道，落叶铺满通向远处的小路。",
+      "caption": "南怡岛 · 春川",
+      "placeholder": "data:image/jpeg;base64,/9j/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wgARCAAwACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAwQCAAH/xAAYAQACAwAAAAAAAAAAAAAAAAACAwABBP/aAAwDAQACEAMQAAAB5pXw7FL0rgVSUtTuZgl0sOlm0rmYf//EAB0QAAICAwEBAQAAAAAAAAAAAAABAhEDITIxEiL/2gAIAQEAAQUC2iPU/dtqWoslt3QiD+ifsel5hu8vUelGhD2Sxn5RZchtn//EABoRAAICAwAAAAAAAAAAAAAAAAABAhEQIVH/2gAIAQMBAT8BuxaSIzoc+Dx//8QAGhEAAwEAAwAAAAAAAAAAAAAAAAECERAhMf/aAAgBAgEBPwGkelzqFOI74//EACAQAAECBQUAAAAAAAAAAAAAAAABEAIhMUGREiJRYYL/2gAIAQEABj8C3ZfSK9ZHppkIgh0QlC2SzckoSyFVP//EAB8QAAICAwADAQEAAAAAAAAAAAABESExQVFxkbFhof/aAAgBAQABPyGy1PCEKO31DuiZhsRM8HQ1T2LaVmqn5ZZTNlhmj/RMmh7y2dWmJDlLyNCihp+jNjjNZPZTQJC/7ETpeDp6FUvkLugl5un/2gAMAwEAAgADAAAAED1Z7Ouv/8QAGREBAQEBAQEAAAAAAAAAAAAAAQARQSEx/9oACAEDAQE/EAaCCAuiNw4gZ58g1zL/xAAaEQEAAwEBAQAAAAAAAAAAAAABABEh8DGR/9oACAECAQE/EENY6WWlR9O9gJ2BRd98n//EACAQAQEAAwADAAMBAQAAAAAAAAERACExQVFhcYHBoeH/2gAIAQEAAT8QBjxzwMnE1tqOIjreOp/3Gjg2H2mNpYpFtD19xCEXp6+41KCa8BmidQm1u3+ZIVuxD4PM4ih3Cee3IWS9Hflzy9Ua/n/MSILcPKa/fc3gbYzmTEEqgTvnEU2GIsIvv1n6xt8sb2H5OWNx63/mXka9bVMWG1METAAB+uy/DImrHFx0xGwamf/Z",
+      "variants": {
+        "thumb": {
+          "avif": [
+            {
+              "width": 480,
+              "height": 720,
+              "src": "/media/korea-nami-island/thumb-480.avif",
+              "format": "avif",
+              "bytes": 67747
+            },
+            {
+              "width": 768,
+              "height": 1152,
+              "src": "/media/korea-nami-island/thumb-768.avif",
+              "format": "avif",
+              "bytes": 147813
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/korea-nami-island/thumb-1024.avif",
+              "format": "avif",
+              "bytes": 233801
+            }
+          ],
+          "webp": [
+            {
+              "width": 480,
+              "height": 720,
+              "src": "/media/korea-nami-island/thumb-480.webp",
+              "format": "webp",
+              "bytes": 101982
+            },
+            {
+              "width": 768,
+              "height": 1152,
+              "src": "/media/korea-nami-island/thumb-768.webp",
+              "format": "webp",
+              "bytes": 213724
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/korea-nami-island/thumb-1024.webp",
+              "format": "webp",
+              "bytes": 347736
+            }
+          ],
+          "jpeg": [
+            {
+              "width": 480,
+              "height": 720,
+              "src": "/media/korea-nami-island/thumb-480.jpg",
+              "format": "jpeg",
+              "bytes": 113480
+            },
+            {
+              "width": 768,
+              "height": 1152,
+              "src": "/media/korea-nami-island/thumb-768.jpg",
+              "format": "jpeg",
+              "bytes": 259502
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/korea-nami-island/thumb-1024.jpg",
+              "format": "jpeg",
+              "bytes": 424193
+            }
+          ]
+        },
+        "detail": {
+          "avif": [
+            {
+              "width": 960,
+              "height": 1440,
+              "src": "/media/korea-nami-island/detail-960.avif",
+              "format": "avif",
+              "bytes": 211830
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/korea-nami-island/detail-1024.avif",
+              "format": "avif",
+              "bytes": 233801
+            }
+          ],
+          "webp": [
+            {
+              "width": 960,
+              "height": 1440,
+              "src": "/media/korea-nami-island/detail-960.webp",
+              "format": "webp",
+              "bytes": 301142
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/korea-nami-island/detail-1024.webp",
+              "format": "webp",
+              "bytes": 347736
+            }
+          ],
+          "jpeg": [
+            {
+              "width": 960,
+              "height": 1440,
+              "src": "/media/korea-nami-island/detail-960.jpg",
+              "format": "jpeg",
+              "bytes": 379696
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/korea-nami-island/detail-1024.jpg",
+              "format": "jpeg",
+              "bytes": 424193
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "image-korea-seongsan-ilchulbong",
+      "slug": "korea-seongsan-ilchulbong",
+      "source": "korea/seongsan-ilchulbong.png",
+      "sourceHash": "2510b466877b14bf77eca581bb83f39294efc467d89088958a01f4958339504b",
+      "width": 1024,
+      "height": 1536,
+      "format": "png",
+      "collection": "korea",
+      "alt": "青绿火山口高踞海面，陡峭岩壁与蓝色海湾形成鲜明层次。",
+      "caption": "城山日出峰 · 济州岛",
+      "placeholder": "data:image/jpeg;base64,/9j/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wgARCAAwACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAgMEAQAF/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQIDBAX/2gAMAwEAAhADEAAAAfQwEE1DGVJ8ssiXBOcwpk+dDNQU3K3/xAAaEAADAAMBAAAAAAAAAAAAAAAAARECEBIh/9oACAEBAAEFAoQmuvHk9Q9MY3yjqD9LUmNKU7UWKZlulP/EABsRAAMAAgMAAAAAAAAAAAAAAAABAhEhEjFB/9oACAEDAQE/AauUc0/CUqQ3jYtdCqkf/8QAHBEAAwACAwEAAAAAAAAAAAAAAAECERIDITFB/9oACAECAQE/AZm39GmvWcuxEPOKY1k07P/EAB0QAAEEAgMAAAAAAAAAAAAAAAABESAhAhASIjH/2gAIAQEABj8C3ULGOyqUcR8delQRXj//xAAeEAEBAAICAgMAAAAAAAAAAAABABEhMVFBYRBxgf/aAAgBAQABPyHb5EPZjbdqyviNtE9koEcwiHGMUgAvRB4naEFcmjV4FxhyWMXlPqyYJcA/kcdDx1Zsxhe1/9oADAMBAAIAAwAAABDtuJ++r//EABoRAQEBAQADAAAAAAAAAAAAAAEAETEhkfD/2gAIAQMBAT8QC1I5PnqOJYHFryWRCb2//8QAHBEBAQABBQEAAAAAAAAAAAAAAQBBESExgcHw/9oACAECAQE/EHkwvlPYbkbDzuPlaELi/8QAHxABAAICAgIDAAAAAAAAAAAAAQARITFBUYHBEGHx/9oACAEBAAE/EMFhiV6ifyKKoG7Yt95l7aVmoup2sGhDBLN+5vw44GLJxvFsUosnsqXGYFht1cKEBpmlxuJSCNHCZiKdpbw+I3mkUxF0KNkfwAXVOerhg9GOzgxH4HDi7+4p7T//2Q==",
+      "variants": {
+        "thumb": {
+          "avif": [
+            {
+              "width": 480,
+              "height": 720,
+              "src": "/media/korea-seongsan-ilchulbong/thumb-480.avif",
+              "format": "avif",
+              "bytes": 43783
+            },
+            {
+              "width": 768,
+              "height": 1152,
+              "src": "/media/korea-seongsan-ilchulbong/thumb-768.avif",
+              "format": "avif",
+              "bytes": 104148
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/korea-seongsan-ilchulbong/thumb-1024.avif",
+              "format": "avif",
+              "bytes": 177066
+            }
+          ],
+          "webp": [
+            {
+              "width": 480,
+              "height": 720,
+              "src": "/media/korea-seongsan-ilchulbong/thumb-480.webp",
+              "format": "webp",
+              "bytes": 64886
+            },
+            {
+              "width": 768,
+              "height": 1152,
+              "src": "/media/korea-seongsan-ilchulbong/thumb-768.webp",
+              "format": "webp",
+              "bytes": 155588
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/korea-seongsan-ilchulbong/thumb-1024.webp",
+              "format": "webp",
+              "bytes": 249922
+            }
+          ],
+          "jpeg": [
+            {
+              "width": 480,
+              "height": 720,
+              "src": "/media/korea-seongsan-ilchulbong/thumb-480.jpg",
+              "format": "jpeg",
+              "bytes": 80391
+            },
+            {
+              "width": 768,
+              "height": 1152,
+              "src": "/media/korea-seongsan-ilchulbong/thumb-768.jpg",
+              "format": "jpeg",
+              "bytes": 190696
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/korea-seongsan-ilchulbong/thumb-1024.jpg",
+              "format": "jpeg",
+              "bytes": 321912
+            }
+          ]
+        },
+        "detail": {
+          "avif": [
+            {
+              "width": 960,
+              "height": 1440,
+              "src": "/media/korea-seongsan-ilchulbong/detail-960.avif",
+              "format": "avif",
+              "bytes": 157796
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/korea-seongsan-ilchulbong/detail-1024.avif",
+              "format": "avif",
+              "bytes": 177066
+            }
+          ],
+          "webp": [
+            {
+              "width": 960,
+              "height": 1440,
+              "src": "/media/korea-seongsan-ilchulbong/detail-960.webp",
+              "format": "webp",
+              "bytes": 217172
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/korea-seongsan-ilchulbong/detail-1024.webp",
+              "format": "webp",
+              "bytes": 249922
+            }
+          ],
+          "jpeg": [
+            {
+              "width": 960,
+              "height": 1440,
+              "src": "/media/korea-seongsan-ilchulbong/detail-960.jpg",
+              "format": "jpeg",
+              "bytes": 286900
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/korea-seongsan-ilchulbong/detail-1024.jpg",
+              "format": "jpeg",
+              "bytes": 321912
             }
           ]
         }

@@ -558,5 +558,155 @@
     "filename": "05-snow-cable-car.png",
     "sourceUrl": null,
     "artworkType": "imagined-scene"
+  },
+  {
+    "id": "korea-gyeongbokgung",
+    "country": "korea",
+    "countryZh": "韩国",
+    "title": "景福宫",
+    "city": "首尔",
+    "description": "覆雪的宫殿屋顶与红色木柱映着冬日庭院。",
+    "sourceUrl": "https://english.seoul.go.kr/service/amusement/traditional-culture/2-five-palaces/",
+    "filename": "gyeongbokgung.png",
+    "prompt": "Create ONE original full-bleed portrait 2:3 travel illustration, 1024x1536. Input images are STYLE REFERENCES ONLY, not content or object-placement references. Match their opaque matte gouache, broad flat color shapes, fine tactile watercolor-paper grain across all color including white, organically imperfect hand-painted edges, crisp blue/teal/lavender shadow planes, simplified yet recognizable architecture and landscape. Use clean warm-cool contrast with a concentrated accent. No black outlines, photorealism, glossy 3D, smooth digital gradients, heavy impasto, collage, border, words, lettering, logos or watermark. Keep the Korean landmark's distinctive real silhouette, not Japanese or Chinese substitutes. Make the specified fresh composition.\nScene: Gyeongbokgung Palace Seoul, Geunjeongjeon main throne hall: broad two-tier traditional Korean gray-tile roof with gently upturned eaves, red wooden pillars, raised pale stone terrace and broad stairs. View diagonally across the vast courtyard in fresh winter snow, deep cobalt snow shadows, evergreen foreground corner, blue mountains distant, clear pale blue sky. Palace fills middle width, no signage, a tiny visitor for scale.",
+    "references": [
+      "coastal-bus.jpg",
+      "snow-cable-car.jpg"
+    ]
+  },
+  {
+    "id": "korea-changdeokgung",
+    "country": "korea",
+    "countryZh": "韩国",
+    "title": "昌德宫后苑",
+    "city": "首尔",
+    "description": "后苑池水映着亭阁与层叠秋叶，石阶穿过静谧园林。",
+    "sourceUrl": "https://english.seoul.go.kr/service/amusement/traditional-culture/2-five-palaces/",
+    "filename": "changdeokgung.png",
+    "prompt": "Create ONE original full-bleed portrait 2:3 travel illustration, 1024x1536. Input images are STYLE REFERENCES ONLY, not content or object-placement references. Match their opaque matte gouache, broad flat color shapes, fine tactile watercolor-paper grain across all color including white, organically imperfect hand-painted edges, crisp blue/teal/lavender shadow planes, simplified yet recognizable architecture and landscape. Use clean warm-cool contrast with a concentrated accent. No black outlines, photorealism, glossy 3D, smooth digital gradients, heavy impasto, collage, border, words, lettering, logos or watermark. Keep the Korean landmark's distinctive real silhouette, not Japanese or Chinese substitutes. Make the specified fresh composition.\nScene: Changdeokgung Secret Garden Seoul, Buyongji rectangular pond with Buyongjeong traditional Korean pavilion at pond edge, broad gray tiled roof and red columns, autumn maples, a stone stair approach in foreground and garden vegetation. Elevated diagonal view over still jade pond and warm foliage, minimal sky; red orange ochre versus deep teal water, pale cream stone. Calm late afternoon.",
+    "references": [
+      "coastal-bus.jpg",
+      "autumn-river.jpg"
+    ]
+  },
+  {
+    "id": "korea-bukchon",
+    "country": "korea",
+    "countryZh": "韩国",
+    "title": "北村韩屋村",
+    "city": "首尔",
+    "description": "雨后石巷在灰瓦韩屋之间延伸，暖色窗光映着湿润路面。",
+    "sourceUrl": "https://www.jongno.go.kr/English.do?menuId=6022&menuNo=6022",
+    "filename": "bukchon.png",
+    "prompt": "Create ONE original full-bleed portrait 2:3 travel illustration, 1024x1536. Input images are STYLE REFERENCES ONLY, not content or object-placement references. Match their opaque matte gouache, broad flat color shapes, fine tactile watercolor-paper grain across all color including white, organically imperfect hand-painted edges, crisp blue/teal/lavender shadow planes, simplified yet recognizable architecture and landscape. Use clean warm-cool contrast with a concentrated accent. No black outlines, photorealism, glossy 3D, smooth digital gradients, heavy impasto, collage, border, words, lettering, logos or watermark. Keep the Korean landmark's distinctive real silhouette, not Japanese or Chinese substitutes. Make the specified fresh composition.\nScene: Bukchon Hanok Village Seoul, intimate sloping narrow stone lane lined with authentic Korean hanok gray tiled curving roof eaves, cream plaster and timber walls. Street-level perspective with one tiny figure carrying a coral umbrella after rain, reflections simplified into broad lavender and ochre shapes, warm window light, small hazy city glimpse far downhill. Low sky share, quiet urban mood; no letters on doors.",
+    "references": [
+      "coastal-bus.jpg",
+      "rainy-city.jpg"
+    ]
+  },
+  {
+    "id": "korea-n-seoul-tower",
+    "country": "korea",
+    "countryZh": "韩国",
+    "title": "南山首尔塔",
+    "city": "首尔",
+    "description": "细长塔身从南山树冠间升起，远处城市融入暮色。",
+    "sourceUrl": "https://english.visitseoul.net/attractions",
+    "filename": "n-seoul-tower.png",
+    "prompt": "Create ONE original full-bleed portrait 2:3 travel illustration, 1024x1536. Input images are STYLE REFERENCES ONLY, not content or object-placement references. Match their opaque matte gouache, broad flat color shapes, fine tactile watercolor-paper grain across all color including white, organically imperfect hand-painted edges, crisp blue/teal/lavender shadow planes, simplified yet recognizable architecture and landscape. Use clean warm-cool contrast with a concentrated accent. No black outlines, photorealism, glossy 3D, smooth digital gradients, heavy impasto, collage, border, words, lettering, logos or watermark. Keep the Korean landmark's distinctive real silhouette, not Japanese or Chinese substitutes. Make the specified fresh composition.\nScene: N Seoul Tower on Namsan hill, recognizable slender white cylindrical tower with elevated broad round observation deck and tall antenna, NOT Tokyo Tower lattice and NOT Space Needle tripod. View from below a tree-framed hill path, distant layered Seoul skyline below, purple dusk sky and small pale gold sunset, coral orange and green autumn leaves as foreground shapes, cream tower blue shadow and small warm lit windows. Strong vertical focus.",
+    "references": [
+      "coastal-bus.jpg",
+      "snow-cable-car.jpg"
+    ]
+  },
+  {
+    "id": "korea-gamcheon",
+    "country": "korea",
+    "countryZh": "韩国",
+    "title": "甘川文化村",
+    "city": "釜山",
+    "description": "彩色小屋层层铺满山坡，阶梯与小巷通向远处海湾。",
+    "sourceUrl": "https://english.visitkorea.or.kr/public/contents/travel/mustvisit100/25-26_100must-visit_guide1_enu.pdf",
+    "filename": "gamcheon.png",
+    "prompt": "Create ONE original full-bleed portrait 2:3 travel illustration, 1024x1536. Input images are STYLE REFERENCES ONLY, not content or object-placement references. Match their opaque matte gouache, broad flat color shapes, fine tactile watercolor-paper grain across all color including white, organically imperfect hand-painted edges, crisp blue/teal/lavender shadow planes, simplified yet recognizable architecture and landscape. Use clean warm-cool contrast with a concentrated accent. No black outlines, photorealism, glossy 3D, smooth digital gradients, heavy impasto, collage, border, words, lettering, logos or watermark. Keep the Korean landmark's distinctive real silhouette, not Japanese or Chinese substitutes. Make the specified fresh composition.\nScene: Gamcheon Culture Village Busan, terraced tightly clustered low-rise cube-like hillside houses in coral, turquoise, pale yellow, lavender and white, small flat roofs, winding stepped alleys between houses, distant harbor strip. High oblique viewpoint from a foreground staircase with blue railing; bright summer sunlight, crisp teal shadows, restrained sky at top. Houses fill most frame, not Mediterranean villas; no mural words or signs.",
+    "references": [
+      "coastal-bus.jpg",
+      "desert-market.jpg"
+    ]
+  },
+  {
+    "id": "korea-haedong-yonggungsa",
+    "country": "korea",
+    "countryZh": "韩国",
+    "title": "海东龙宫寺",
+    "city": "釜山",
+    "description": "灰瓦寺庙倚着海边岩岸，白色浪花拍过石阶与露台。",
+    "sourceUrl": "https://english.visitkorea.or.kr/public/contents/travel/mustvisit100/25-26_100must-visit_guide1_enu.pdf",
+    "filename": "haedong-yonggungsa.png",
+    "prompt": "Create ONE original full-bleed portrait 2:3 travel illustration, 1024x1536. Input images are STYLE REFERENCES ONLY, not content or object-placement references. Match their opaque matte gouache, broad flat color shapes, fine tactile watercolor-paper grain across all color including white, organically imperfect hand-painted edges, crisp blue/teal/lavender shadow planes, simplified yet recognizable architecture and landscape. Use clean warm-cool contrast with a concentrated accent. No black outlines, photorealism, glossy 3D, smooth digital gradients, heavy impasto, collage, border, words, lettering, logos or watermark. Keep the Korean landmark's distinctive real silhouette, not Japanese or Chinese substitutes. Make the specified fresh composition.\nScene: Haedong Yonggungsa Temple Busan, traditional Korean Buddhist temple gray-tiled gently curved roofs and red-green wooden decoration perched on dark coastal rocks, pale stone bridge and stepped approach, vast cobalt sea with white wave shapes, a modest stone pagoda. Oblique elevated view with temple at left-middle, diagonal coast guiding toward sea; turquoise water, warm ivory stone, pine green, coral accents, sunny morning. No Japanese torii or text.",
+    "references": [
+      "coastal-bus.jpg",
+      "fushimi-inari.jpg"
+    ]
+  },
+  {
+    "id": "korea-hwaseong",
+    "country": "korea",
+    "countryZh": "韩国",
+    "title": "水原华城",
+    "city": "水原",
+    "description": "灰色城墙沿草坡展开，亭阁与柳树倒映在池水中。",
+    "sourceUrl": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=62377",
+    "filename": "hwaseong.png",
+    "prompt": "Create ONE original full-bleed portrait 2:3 travel illustration, 1024x1536. Input images are STYLE REFERENCES ONLY, not content or object-placement references. Match their opaque matte gouache, broad flat color shapes, fine tactile watercolor-paper grain across all color including white, organically imperfect hand-painted edges, crisp blue/teal/lavender shadow planes, simplified yet recognizable architecture and landscape. Use clean warm-cool contrast with a concentrated accent. No black outlines, photorealism, glossy 3D, smooth digital gradients, heavy impasto, collage, border, words, lettering, logos or watermark. Keep the Korean landmark's distinctive real silhouette, not Japanese or Chinese substitutes. Make the specified fresh composition.\nScene: Suwon Hwaseong Fortress, Banghwasuryujeong pavilion with distinctive layered Korean gray-tile roof atop stone fortification, pale granite wall following grassy hill above Yongyeon pond. Low viewpoint across pond, willow branches in foreground, spring fresh greens and peach blossom accent, pale blue sky. Pavilion off center, broad jade water and cream walls with blue shadows. Not a Chinese Great Wall mountain scene.",
+    "references": [
+      "coastal-bus.jpg",
+      "coastal-bus.jpg"
+    ]
+  },
+  {
+    "id": "korea-bulguksa",
+    "country": "korea",
+    "countryZh": "韩国",
+    "title": "佛国寺",
+    "city": "庆州",
+    "description": "宽阔石阶托起韩式殿宇，春樱在古寺边缘轻轻盛开。",
+    "sourceUrl": "https://english.visitkorea.or.kr/web_book/unesco_m_eng/index.html",
+    "filename": "bulguksa.png",
+    "prompt": "Create ONE original full-bleed portrait 2:3 travel illustration, 1024x1536. Input images are STYLE REFERENCES ONLY, not content or object-placement references. Match their opaque matte gouache, broad flat color shapes, fine tactile watercolor-paper grain across all color including white, organically imperfect hand-painted edges, crisp blue/teal/lavender shadow planes, simplified yet recognizable architecture and landscape. Use clean warm-cool contrast with a concentrated accent. No black outlines, photorealism, glossy 3D, smooth digital gradients, heavy impasto, collage, border, words, lettering, logos or watermark. Keep the Korean landmark's distinctive real silhouette, not Japanese or Chinese substitutes. Make the specified fresh composition.\nScene: Bulguksa Temple Gyeongju, view from below toward the iconic paired broad stone stairways and arch-supported stone terrace of Cheongungyo Baegungyo, with Jahamun gate traditional Korean red pillars and gray tiled roof above. Foreground stone steps create bold upward geometry; pale pink spring cherry blossoms at edge, blue-green trees background, cream stone cobalt cast shadows. Landmark stair structures dominant, no invented Chinese tall pagoda.",
+    "references": [
+      "coastal-bus.jpg",
+      "fushimi-inari.jpg"
+    ]
+  },
+  {
+    "id": "korea-seongsan-ilchulbong",
+    "country": "korea",
+    "countryZh": "韩国",
+    "title": "城山日出峰",
+    "city": "济州岛",
+    "description": "青绿火山口高踞海面，陡峭岩壁与蓝色海湾形成鲜明层次。",
+    "sourceUrl": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=110731",
+    "filename": "seongsan-ilchulbong.png",
+    "prompt": "Create ONE original full-bleed portrait 2:3 travel illustration, 1024x1536. Input images are STYLE REFERENCES ONLY, not content or object-placement references. Match their opaque matte gouache, broad flat color shapes, fine tactile watercolor-paper grain across all color including white, organically imperfect hand-painted edges, crisp blue/teal/lavender shadow planes, simplified yet recognizable architecture and landscape. Use clean warm-cool contrast with a concentrated accent. No black outlines, photorealism, glossy 3D, smooth digital gradients, heavy impasto, collage, border, words, lettering, logos or watermark. Keep the Korean landmark's distinctive real silhouette, not Japanese or Chinese substitutes. Make the specified fresh composition.\nScene: Seongsan Ilchulbong tuff cone Jeju, unmistakable broad bowl-shaped grassy crater bounded by a jagged circular rim with steep brown basalt cliffs above surrounding deep blue ocean; lower connecting land and a small coastal village at one edge. High oblique aerial viewpoint revealing full crater interior; dawn warm peach light versus teal and blue sea, rust ochre cliffs, pale lavender sky with few small clouds. Not a pointed volcano or snowy peak.",
+    "references": [
+      "coastal-bus.jpg",
+      "coastal-bus.jpg"
+    ]
+  },
+  {
+    "id": "korea-nami-island",
+    "country": "korea",
+    "countryZh": "韩国",
+    "title": "南怡岛",
+    "city": "春川",
+    "description": "两排金色高树围成林荫大道，落叶铺满通向远处的小路。",
+    "sourceUrl": "https://english1.visitkorea.or.kr/enu/ATR/SI_EN_3_6.jsp?cid=2030992",
+    "filename": "nami-island.png",
+    "prompt": "Create ONE original full-bleed portrait 2:3 travel illustration, 1024x1536. Input images are STYLE REFERENCES ONLY, not content or object-placement references. Match their opaque matte gouache, broad flat color shapes, fine tactile watercolor-paper grain across all color including white, organically imperfect hand-painted edges, crisp blue/teal/lavender shadow planes, simplified yet recognizable architecture and landscape. Use clean warm-cool contrast with a concentrated accent. No black outlines, photorealism, glossy 3D, smooth digital gradients, heavy impasto, collage, border, words, lettering, logos or watermark. Keep the Korean landmark's distinctive real silhouette, not Japanese or Chinese substitutes. Make the specified fresh composition.\nScene: Namiseom Nami Island Chuncheon, famous avenue lined by two straight rows of tall metasequoia trees, slender dark brown trunks and russet gold autumn canopy forming an open cathedral-like perspective, path blanketed in ochre leaves, two tiny visitors far away. Low eye-level symmetrical deep avenue view, little sky; broad golden-orange foliage, deep teal shadow shapes, pale cream light at vanishing point. No temple, sea or signage.",
+    "references": [
+      "coastal-bus.jpg",
+      "autumn-river.jpg"
+    ]
   }
 ]
