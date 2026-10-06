@@ -33,4 +33,4 @@ npm run deploy
 
 Cloudflare Workers Static Assets, exact host route and proxied DNS for `world-landmarks.xiaosang.cc`. Source and deployment config use main; deploy manually from the same commit.
 
-Original PNGs: `incoming/`. Full prompts and official landmark sources: `public/landmarks.json`. AVIF/WebP/JPEG derivatives are created at build time and original PNGs do not enter `dist/`. Gallery downloads are full-resolution JPEGs; lossless original PNG packs are attached to the release. v1.0.1.
+Original PNGs: `incoming/`. Full prompts and official landmark sources: `public/landmarks.json`. AVIF/WebP/JPEG derivatives are created at build time and original PNGs do not enter `dist/`. Gallery downloads are full-resolution JPEGs; lossless original PNG packs are attached to the release. v1.0.2.
