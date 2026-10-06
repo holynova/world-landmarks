@@ -3,6 +3,8 @@
   "generatedBy": "image-gallery-template",
   "processingSignature": "{\"pipeline\":1,\"widths\":{\"thumb\":[480,768],\"detail\":[960,1440,1920]},\"quality\":{\"avif\":55,\"webp\":78,\"jpeg\":84}}",
   "collections": [
+    "seaside",
+    "scenes",
     "spain",
     "china",
     "japan",
@@ -2724,6 +2726,1366 @@
               "src": "/media/japan-japan-tokyo-tower/detail-1024.jpg",
               "format": "jpeg",
               "bytes": 311035
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "image-scenes-01-mountain-train",
+      "slug": "scenes-01-mountain-train",
+      "source": "scenes/01-mountain-train.png",
+      "sourceHash": "8824191161190d7f307fc7a2b5ff4789b6284a962534641391b958d1b1ed9fe5",
+      "width": 1024,
+      "height": 1536,
+      "format": "png",
+      "collection": "scenes",
+      "alt": "橙色列车穿过高架石桥，桥下河流蜿蜒于森林峡谷。",
+      "caption": "山间列车 · 多样风景",
+      "placeholder": "data:image/jpeg;base64,/9j/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wgARCAAwACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAgMEAAH/xAAXAQEBAQEAAAAAAAAAAAAAAAADBAIF/9oADAMBAAIQAxAAAAF3JySV5py5wGPPp4qhTYtUDheeaqdJ/wD/xAAdEAEAAwEAAgMAAAAAAAAAAAABAAISESEiAzFB/9oACAEBAAEFAq5seO5Y/GkfstBm8z2Jyfici6j4qmVWtkLljJZzQ9rUsM8XqnZzM//EABoRAAICAwAAAAAAAAAAAAAAAAABESECEHH/2gAIAQMBAT8BaFGoRWVo6f/EABsRAAIDAAMAAAAAAAAAAAAAAAABAgMREiEx/9oACAECAQE/Aa7uQ2RxG9HompLIn//EAB4QAAIBBAMBAAAAAAAAAAAAAAABERAgITECEmGB/9oACAEBAAY/AtOTFkadcmiKJOfBOjUmfg1yPbOumjB//8QAHhABAAIDAQEAAwAAAAAAAAAAAQARITFRQWFxgZH/2gAIAQEAAT8hawoe8iYFc1ffsqtMNWPddHke7EKdRqyC8ZSp1V1uISuI5yMbBGuzDNvWoWgrOSaT5U/olyBL+2olqbGmKXqgaHK5ZU5bmsl/h3Dsr/auNiYM/9oADAMBAAIAAwAAABAqMZOUr//EABoRAQEAAgMAAAAAAAAAAAAAAAEAEWEhQVH/2gAIAQMBAT8Qx2idck+GJB7LCM//xAAcEQACAwEAAwAAAAAAAAAAAAAAAREhMUFRYXH/2gAIAQIBAT8QUl6NVyMyIrnoejfwnapoc9Fzwf/EAB8QAQEAAgIDAAMAAAAAAAAAAAERACExYUFRcYHB8P/aAAgBAQABPxBgHYh3+GIp9E3mwALwgcBVBPDxkysDRvQ29mA3R4Nj2YmiBn9TFr4EFHFlFiKhDjeAFyLBkPGDiaMXS/HEhP0k116wRzgqoezxrjB0TLCJqX5hzFSGHKlb1cFdIymkcrhkQkDgejHcGhNfesszrAnBMAKs1eVfLg1Tknz9Y80EZpF6wcAAAujFgUlvrrP/2Q==",
+      "variants": {
+        "thumb": {
+          "avif": [
+            {
+              "width": 480,
+              "height": 720,
+              "src": "/media/scenes-01-mountain-train/thumb-480.avif",
+              "format": "avif",
+              "bytes": 55916
+            },
+            {
+              "width": 768,
+              "height": 1152,
+              "src": "/media/scenes-01-mountain-train/thumb-768.avif",
+              "format": "avif",
+              "bytes": 128885
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/scenes-01-mountain-train/thumb-1024.avif",
+              "format": "avif",
+              "bytes": 215109
+            }
+          ],
+          "webp": [
+            {
+              "width": 480,
+              "height": 720,
+              "src": "/media/scenes-01-mountain-train/thumb-480.webp",
+              "format": "webp",
+              "bytes": 85286
+            },
+            {
+              "width": 768,
+              "height": 1152,
+              "src": "/media/scenes-01-mountain-train/thumb-768.webp",
+              "format": "webp",
+              "bytes": 193956
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/scenes-01-mountain-train/thumb-1024.webp",
+              "format": "webp",
+              "bytes": 331400
+            }
+          ],
+          "jpeg": [
+            {
+              "width": 480,
+              "height": 720,
+              "src": "/media/scenes-01-mountain-train/thumb-480.jpg",
+              "format": "jpeg",
+              "bytes": 102480
+            },
+            {
+              "width": 768,
+              "height": 1152,
+              "src": "/media/scenes-01-mountain-train/thumb-768.jpg",
+              "format": "jpeg",
+              "bytes": 236324
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/scenes-01-mountain-train/thumb-1024.jpg",
+              "format": "jpeg",
+              "bytes": 391805
+            }
+          ]
+        },
+        "detail": {
+          "avif": [
+            {
+              "width": 960,
+              "height": 1440,
+              "src": "/media/scenes-01-mountain-train/detail-960.avif",
+              "format": "avif",
+              "bytes": 192062
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/scenes-01-mountain-train/detail-1024.avif",
+              "format": "avif",
+              "bytes": 215109
+            }
+          ],
+          "webp": [
+            {
+              "width": 960,
+              "height": 1440,
+              "src": "/media/scenes-01-mountain-train/detail-960.webp",
+              "format": "webp",
+              "bytes": 282516
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/scenes-01-mountain-train/detail-1024.webp",
+              "format": "webp",
+              "bytes": 331400
+            }
+          ],
+          "jpeg": [
+            {
+              "width": 960,
+              "height": 1440,
+              "src": "/media/scenes-01-mountain-train/detail-960.jpg",
+              "format": "jpeg",
+              "bytes": 350532
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/scenes-01-mountain-train/detail-1024.jpg",
+              "format": "jpeg",
+              "bytes": 391805
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "image-scenes-02-rainy-city",
+      "slug": "scenes-02-rainy-city",
+      "source": "scenes/02-rainy-city.png",
+      "sourceHash": "3d90d1aebea7fd386b97d56ad9140e1bd913713667cd137919e1f988ac880adb",
+      "width": 1024,
+      "height": 1536,
+      "format": "png",
+      "collection": "scenes",
+      "alt": "黄色电车穿过城市街口，行人与雨伞倒映在湿润路面。",
+      "caption": "雨后电车 · 多样风景",
+      "placeholder": "data:image/jpeg;base64,/9j/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wgARCAAwACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAgMEAAH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgMA/9oADAMBAAIQAxAAAAGa1NkwKSXrKoRTpgS+hwoS1h3ZQb//xAAdEAACAgIDAQAAAAAAAAAAAAABAgAREjEDIUEy/9oACAEBAAEFAhEyttaKqK0GaHdVGBynlwie2ch0VM1yA9mIemg+v//EABgRAAMBAQAAAAAAAAAAAAAAAAABAjFR/9oACAEDAQE/AVPCcEkSYI//xAAaEQACAgMAAAAAAAAAAAAAAAAAARAxESFx/9oACAECAQE/AaY3lw+Fj0f/xAAgEAACAQMEAwAAAAAAAAAAAAAAAREQITECEmGBIjJB/9oACAEBAAY/AuTbqIGy5ElmOcFm0Ly+ESjIoYnknZ0evRpEO9FxSaf/xAAeEAACAwEAAgMAAAAAAAAAAAABEQAhMUFRYXGBsf/aAAgBAQABPyFCRa6M9UVGPhYOw3BfYUadGQVBYCCBJISVPCUUFZeWlAeDtQZxdUK+jxNNI0AeRQCGOgS+r8QE0xekAaGMjkSAAS7CSBhZLNuoSqUkf8Bs7A3CDBKtn//aAAwDAQACAAMAAAAQbs1jGt//xAAaEQADAAMBAAAAAAAAAAAAAAAAAREhMWHx/9oACAEDAQE/ELIQoW/Rvg0xRQS1T//EABsRAQACAgMAAAAAAAAAAAAAAAEAESFRcdHw/9oACAECAQE/EByuI1zM8y3h3DeBVOp//8QAHxABAQACAgIDAQAAAAAAAAAAAREAITFBUWFxgaGx/9oACAEBAAE/ECHvMThMflVdKY9CgOnG9/mQuMNF3PRlNmpeNXpw0hoq8G8gIkMt+MDafA20uMvsANzTgghAVQ9vGAnQAFF/kw+aoZQN3kRWsux594h9z5pJDKE+oDPtitSJCde2OIJIEC76xaFQOiduXAHWnDiWsEpfXOEmL2M5fjCM1q2Ocb2PuY5C8DvWf//Z",
+      "variants": {
+        "thumb": {
+          "avif": [
+            {
+              "width": 480,
+              "height": 720,
+              "src": "/media/scenes-02-rainy-city/thumb-480.avif",
+              "format": "avif",
+              "bytes": 58337
+            },
+            {
+              "width": 768,
+              "height": 1152,
+              "src": "/media/scenes-02-rainy-city/thumb-768.avif",
+              "format": "avif",
+              "bytes": 130053
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/scenes-02-rainy-city/thumb-1024.avif",
+              "format": "avif",
+              "bytes": 212358
+            }
+          ],
+          "webp": [
+            {
+              "width": 480,
+              "height": 720,
+              "src": "/media/scenes-02-rainy-city/thumb-480.webp",
+              "format": "webp",
+              "bytes": 84028
+            },
+            {
+              "width": 768,
+              "height": 1152,
+              "src": "/media/scenes-02-rainy-city/thumb-768.webp",
+              "format": "webp",
+              "bytes": 195910
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/scenes-02-rainy-city/thumb-1024.webp",
+              "format": "webp",
+              "bytes": 336656
+            }
+          ],
+          "jpeg": [
+            {
+              "width": 480,
+              "height": 720,
+              "src": "/media/scenes-02-rainy-city/thumb-480.jpg",
+              "format": "jpeg",
+              "bytes": 102687
+            },
+            {
+              "width": 768,
+              "height": 1152,
+              "src": "/media/scenes-02-rainy-city/thumb-768.jpg",
+              "format": "jpeg",
+              "bytes": 239447
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/scenes-02-rainy-city/thumb-1024.jpg",
+              "format": "jpeg",
+              "bytes": 400451
+            }
+          ]
+        },
+        "detail": {
+          "avif": [
+            {
+              "width": 960,
+              "height": 1440,
+              "src": "/media/scenes-02-rainy-city/detail-960.avif",
+              "format": "avif",
+              "bytes": 190926
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/scenes-02-rainy-city/detail-1024.avif",
+              "format": "avif",
+              "bytes": 212358
+            }
+          ],
+          "webp": [
+            {
+              "width": 960,
+              "height": 1440,
+              "src": "/media/scenes-02-rainy-city/detail-960.webp",
+              "format": "webp",
+              "bytes": 285176
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/scenes-02-rainy-city/detail-1024.webp",
+              "format": "webp",
+              "bytes": 336656
+            }
+          ],
+          "jpeg": [
+            {
+              "width": 960,
+              "height": 1440,
+              "src": "/media/scenes-02-rainy-city/detail-960.jpg",
+              "format": "jpeg",
+              "bytes": 354870
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/scenes-02-rainy-city/detail-1024.jpg",
+              "format": "jpeg",
+              "bytes": 400451
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "image-scenes-03-desert-market",
+      "slug": "scenes-03-desert-market",
+      "source": "scenes/03-desert-market.png",
+      "sourceHash": "5dc584569f3a7cffe67e3db0b12f023ea0c064ac56ae35f277572004102038f0",
+      "width": 1024,
+      "height": 1536,
+      "format": "png",
+      "collection": "scenes",
+      "alt": "赭色庭院里的靛蓝棚布遮着水果摊，拱门外是骆驼与金色沙丘。",
+      "caption": "沙漠集市 · 多样风景",
+      "placeholder": "data:image/jpeg;base64,/9j/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wgARCAAwACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAQMEAgD/xAAXAQEBAQEAAAAAAAAAAAAAAAACAwEA/9oADAMBAAIQAxAAAAFdCWyzXcKgyAm9Giub3qCtY6bk8f/EABwQAAMBAQEBAQEAAAAAAAAAAAABAhESAyETMf/aAAgBAQABBQLpk/TDDna8/grSKvROIHvMfH6f1pE6Qml3UenKJhFvkzXO7+g4Oz//xAAdEQACAQQDAAAAAAAAAAAAAAAAARECEhQhIjFB/9oACAEDAQE/AcdemKOZtZdsp5KYOt1H/8QAHhEAAgEDBQAAAAAAAAAAAAAAAAECERIxExQiQVH/2gAIAQIBAT8B1ZLBuH4JRSqW9ko2PJKlOJ//xAAeEAACAgICAwAAAAAAAAAAAAAAAREhAiIQUSAxkf/aAAgBAQAGPwLwob5iiCWpF2+yj38KtDeS1ZoWQoN0SiMicXRZ/8QAHhABAAMAAgMBAQAAAAAAAAAAAQARITFBUWFxoYH/2gAIAQEAAT8hLqs3hnL68wTwS3iBbjWBFVmIbZ8nQ/YlRD6i7j8JmTnqFsOCC3tecn8P4ljJpy7KoPR1HcCL11HWBT5KWA8ZNyzbnU5Sj5nO278Teg+zpHWp/9oADAMBAAIAAwAAABA8PEJu7//EABsRAQACAwEBAAAAAAAAAAAAAAEAESFBYTFR/9oACAEDAQE/EBMCyH2sD8hyIwImpQ7uCpLBqf/EABoRAQEBAQADAAAAAAAAAAAAAAERACFRcbH/2gAIAQIBAT8Qpq3fE4b7MJJmGHT8zBFXzv/EAB8QAQACAgMBAQEBAAAAAAAAAAEAESExQWFxUZGx8P/aAAgBAQABPxBLOopmjnXMNckRwq4MqIbhStqN41G1lgBTWX+1GBED9zhiG7JlFp0XxBuammw92QavNUr/AFlpkX8GWZoFbt/a6jhQQpbV4vuYMEKNA9idGDwiz6uVHBycGeahemjYyo1Gp4bOURwxoxBOLcuZVKgdgHvMC3dmTQifuz/rg6OopMX3qAq3slHpLtFNPw+T/9k=",
+      "variants": {
+        "thumb": {
+          "avif": [
+            {
+              "width": 480,
+              "height": 720,
+              "src": "/media/scenes-03-desert-market/thumb-480.avif",
+              "format": "avif",
+              "bytes": 41544
+            },
+            {
+              "width": 768,
+              "height": 1152,
+              "src": "/media/scenes-03-desert-market/thumb-768.avif",
+              "format": "avif",
+              "bytes": 102406
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/scenes-03-desert-market/thumb-1024.avif",
+              "format": "avif",
+              "bytes": 181211
+            }
+          ],
+          "webp": [
+            {
+              "width": 480,
+              "height": 720,
+              "src": "/media/scenes-03-desert-market/thumb-480.webp",
+              "format": "webp",
+              "bytes": 59890
+            },
+            {
+              "width": 768,
+              "height": 1152,
+              "src": "/media/scenes-03-desert-market/thumb-768.webp",
+              "format": "webp",
+              "bytes": 153434
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/scenes-03-desert-market/thumb-1024.webp",
+              "format": "webp",
+              "bytes": 267884
+            }
+          ],
+          "jpeg": [
+            {
+              "width": 480,
+              "height": 720,
+              "src": "/media/scenes-03-desert-market/thumb-480.jpg",
+              "format": "jpeg",
+              "bytes": 80920
+            },
+            {
+              "width": 768,
+              "height": 1152,
+              "src": "/media/scenes-03-desert-market/thumb-768.jpg",
+              "format": "jpeg",
+              "bytes": 189226
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/scenes-03-desert-market/thumb-1024.jpg",
+              "format": "jpeg",
+              "bytes": 325046
+            }
+          ]
+        },
+        "detail": {
+          "avif": [
+            {
+              "width": 960,
+              "height": 1440,
+              "src": "/media/scenes-03-desert-market/detail-960.avif",
+              "format": "avif",
+              "bytes": 158786
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/scenes-03-desert-market/detail-1024.avif",
+              "format": "avif",
+              "bytes": 181211
+            }
+          ],
+          "webp": [
+            {
+              "width": 960,
+              "height": 1440,
+              "src": "/media/scenes-03-desert-market/detail-960.webp",
+              "format": "webp",
+              "bytes": 226880
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/scenes-03-desert-market/detail-1024.webp",
+              "format": "webp",
+              "bytes": 267884
+            }
+          ],
+          "jpeg": [
+            {
+              "width": 960,
+              "height": 1440,
+              "src": "/media/scenes-03-desert-market/detail-960.jpg",
+              "format": "jpeg",
+              "bytes": 287998
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/scenes-03-desert-market/detail-1024.jpg",
+              "format": "jpeg",
+              "bytes": 325046
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "image-scenes-04-autumn-river",
+      "slug": "scenes-04-autumn-river",
+      "source": "scenes/04-autumn-river.png",
+      "sourceHash": "7950da179c345cc1f8c9c42b87a84b581f2733048b73052a4b16c0efd9391fae",
+      "width": 1024,
+      "height": 1536,
+      "format": "png",
+      "collection": "scenes",
+      "alt": "划船者漂过青绿色河面，橙色秋叶垂落在石桥与农舍前。",
+      "caption": "秋日划船 · 多样风景",
+      "placeholder": "data:image/jpeg;base64,/9j/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wgARCAAwACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAgMEAAH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgME/9oADAMBAAIQAxAAAAFblHj17ndSIgptY1zViyQsVQ89QloP/8QAHhAAAwACAgMBAAAAAAAAAAAAAAECERIDITEyQUL/2gAIAQEAAQUCy2LuW1l6ok/XluzCE8NSqVU1PYkLo5J2Uot4JrL+HtPHOo0f/8QAHBEAAgICAwAAAAAAAAAAAAAAAQIAEQMhEjFh/9oACAEDAQE/AR7DTGPls2vcVyDcBrcZuW5//8QAGREBAQEBAQEAAAAAAAAAAAAAAQACEQMy/9oACAECAQE/AdQcLPnz6nIzBy//xAAcEAABBQADAAAAAAAAAAAAAAARAAEQIEEhMcH/2gAIAQEABj8CnQudgOhJ1Dp7Mn8t/8QAIBABAAMBAAIBBQAAAAAAAAAAAQARITFBYXFRgZGhsf/aAAgBAQABPyFwUkWXJ0FPjzAgJh2Ggdq1hR7eoj9OLiBS8dyKlmvrxE2MJQRVOS3Ls/UtVbyIo194+IFCfEsa/s1qzzZM8HORdi4NVPE/mHp7KG5//9oADAMBAAIAAwAAABBmVxDYH//EABoRAQEBAAMBAAAAAAAAAAAAAAERACExQbH/2gAIAQMBAT8QtMcL3oQz6zxPOuB5ibE3/8QAGBEBAQEBAQAAAAAAAAAAAAAAAQARMSH/2gAIAQIBAT8QxwOTaFgRaRgZ4Q3xuC//xAAgEAEAAgICAgMBAAAAAAAAAAABABEhMUFRcZFhgcHx/9oACAEBAAE/EKN0KUX5xfyzQAjWGy5ZBOsaPaO7qzX1mATHstthx1EYpaWv7h9FcjQmvuCzVFG31csq7FGV3AZal6pepZ8SBOMzDMctPlzMU1Cjj+xMpQCm2FW+sOZt42pVULHTwTC8DQsPXMuxCrRgrHUHyga6jsXgXHT4gGVWtu4ehSK8RgyqsVqf/9k=",
+      "variants": {
+        "thumb": {
+          "avif": [
+            {
+              "width": 480,
+              "height": 720,
+              "src": "/media/scenes-04-autumn-river/thumb-480.avif",
+              "format": "avif",
+              "bytes": 56255
+            },
+            {
+              "width": 768,
+              "height": 1152,
+              "src": "/media/scenes-04-autumn-river/thumb-768.avif",
+              "format": "avif",
+              "bytes": 134148
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/scenes-04-autumn-river/thumb-1024.avif",
+              "format": "avif",
+              "bytes": 223313
+            }
+          ],
+          "webp": [
+            {
+              "width": 480,
+              "height": 720,
+              "src": "/media/scenes-04-autumn-river/thumb-480.webp",
+              "format": "webp",
+              "bytes": 85388
+            },
+            {
+              "width": 768,
+              "height": 1152,
+              "src": "/media/scenes-04-autumn-river/thumb-768.webp",
+              "format": "webp",
+              "bytes": 197094
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/scenes-04-autumn-river/thumb-1024.webp",
+              "format": "webp",
+              "bytes": 341222
+            }
+          ],
+          "jpeg": [
+            {
+              "width": 480,
+              "height": 720,
+              "src": "/media/scenes-04-autumn-river/thumb-480.jpg",
+              "format": "jpeg",
+              "bytes": 99927
+            },
+            {
+              "width": 768,
+              "height": 1152,
+              "src": "/media/scenes-04-autumn-river/thumb-768.jpg",
+              "format": "jpeg",
+              "bytes": 234438
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/scenes-04-autumn-river/thumb-1024.jpg",
+              "format": "jpeg",
+              "bytes": 395172
+            }
+          ]
+        },
+        "detail": {
+          "avif": [
+            {
+              "width": 960,
+              "height": 1440,
+              "src": "/media/scenes-04-autumn-river/detail-960.avif",
+              "format": "avif",
+              "bytes": 199892
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/scenes-04-autumn-river/detail-1024.avif",
+              "format": "avif",
+              "bytes": 223313
+            }
+          ],
+          "webp": [
+            {
+              "width": 960,
+              "height": 1440,
+              "src": "/media/scenes-04-autumn-river/detail-960.webp",
+              "format": "webp",
+              "bytes": 289908
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/scenes-04-autumn-river/detail-1024.webp",
+              "format": "webp",
+              "bytes": 341222
+            }
+          ],
+          "jpeg": [
+            {
+              "width": 960,
+              "height": 1440,
+              "src": "/media/scenes-04-autumn-river/detail-960.jpg",
+              "format": "jpeg",
+              "bytes": 351511
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/scenes-04-autumn-river/detail-1024.jpg",
+              "format": "jpeg",
+              "bytes": 395172
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "image-scenes-05-snow-cable-car",
+      "slug": "scenes-05-snow-cable-car",
+      "source": "scenes/05-snow-cable-car.png",
+      "sourceHash": "fdada991cc7380a64579434e5bd2026ed7b66cc3d44a4e158014e85e4314c6d0",
+      "width": 1024,
+      "height": 1536,
+      "format": "png",
+      "collection": "scenes",
+      "alt": "红色缆车悬于雪山与松林上空，淡黄色太阳点亮冬日天空。",
+      "caption": "雪山缆车 · 多样风景",
+      "placeholder": "data:image/jpeg;base64,/9j/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wgARCAAwACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAgMEAAEF/8QAGAEBAAMBAAAAAAAAAAAAAAAAAgABAwT/2gAMAwEAAhADEAAAAWGJ9Gfcw6kDZzqXLCVDc9cc3A3SI//EAB8QAAICAgEFAAAAAAAAAAAAAAECABEDIRIEEBMiQf/aAAgBAQABBQJtAd8r1FIafSsyoSyY9mp5QIrniDKJDcrZCk9kiZBDTzVFbjdPMmF1n//EABgRAAMBAQAAAAAAAAAAAAAAAAABEQMS/9oACAEDAQE/AYQelUg2zmjqP//EABkRAAIDAQAAAAAAAAAAAAAAAAABAhESQf/aAAgBAgEBPwGzRntiijVCaZ//xAAkEAABAwIEBwAAAAAAAAAAAAAAAREhAhIQIEFRIjFhYpLB0f/aAAgBAQAGPwJ0yM0kcxtcLmhT6SjLh0JOGSUYpdG7txVqpJTxLqmtPQlqs2g9Buh//8QAHhAAAwACAwADAAAAAAAAAAAAAAERITFBUXFhgbH/2gAIAQEAAT8huTXddmS6IQV5jqRRqJuoWQZFwSatDTJO6/Bj+0RQ47eRyF2mdi7WfpkWU6SO6PB+qWT0eBH6N4bQtwzkSUfunGKolu2J/wAiYuXj6MvfmR//2gAMAwEAAgADAAAAEPHigBLv/8QAGREBAQADAQAAAAAAAAAAAAAAAQARITFx/9oACAEDAQE/EIQRZ95C2SeIBhMl/8QAGBEBAQEBAQAAAAAAAAAAAAAAAQARITH/2gAIAQIBAT8QqRyGOFM4sP1IaON//8QAIRABAAICAgICAwAAAAAAAAAAAQARITFBUXGBEMGh4fH/2gAIAQEAAT8QNSUDyPEwmlcjs+dxSDwARsxcXTBsUV+oQWByOjuABWl4LuWKsGzLqNUtnRefEWRNglldwGqMlOL+4JsLCmHp9QOH8EFPI/UFHKyMh71+YA6gNEZZ8BalzfPncVspFKq1sihSFoz7gQbtDR9csSAD2IkdyBXcvBVJuN2GrfGd08e5eFWH8J//2Q==",
+      "variants": {
+        "thumb": {
+          "avif": [
+            {
+              "width": 480,
+              "height": 720,
+              "src": "/media/scenes-05-snow-cable-car/thumb-480.avif",
+              "format": "avif",
+              "bytes": 39917
+            },
+            {
+              "width": 768,
+              "height": 1152,
+              "src": "/media/scenes-05-snow-cable-car/thumb-768.avif",
+              "format": "avif",
+              "bytes": 99072
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/scenes-05-snow-cable-car/thumb-1024.avif",
+              "format": "avif",
+              "bytes": 175781
+            }
+          ],
+          "webp": [
+            {
+              "width": 480,
+              "height": 720,
+              "src": "/media/scenes-05-snow-cable-car/thumb-480.webp",
+              "format": "webp",
+              "bytes": 64658
+            },
+            {
+              "width": 768,
+              "height": 1152,
+              "src": "/media/scenes-05-snow-cable-car/thumb-768.webp",
+              "format": "webp",
+              "bytes": 156510
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/scenes-05-snow-cable-car/thumb-1024.webp",
+              "format": "webp",
+              "bytes": 280264
+            }
+          ],
+          "jpeg": [
+            {
+              "width": 480,
+              "height": 720,
+              "src": "/media/scenes-05-snow-cable-car/thumb-480.jpg",
+              "format": "jpeg",
+              "bytes": 84060
+            },
+            {
+              "width": 768,
+              "height": 1152,
+              "src": "/media/scenes-05-snow-cable-car/thumb-768.jpg",
+              "format": "jpeg",
+              "bytes": 196800
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/scenes-05-snow-cable-car/thumb-1024.jpg",
+              "format": "jpeg",
+              "bytes": 334591
+            }
+          ]
+        },
+        "detail": {
+          "avif": [
+            {
+              "width": 960,
+              "height": 1440,
+              "src": "/media/scenes-05-snow-cable-car/detail-960.avif",
+              "format": "avif",
+              "bytes": 154314
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/scenes-05-snow-cable-car/detail-1024.avif",
+              "format": "avif",
+              "bytes": 175781
+            }
+          ],
+          "webp": [
+            {
+              "width": 960,
+              "height": 1440,
+              "src": "/media/scenes-05-snow-cable-car/detail-960.webp",
+              "format": "webp",
+              "bytes": 235764
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/scenes-05-snow-cable-car/detail-1024.webp",
+              "format": "webp",
+              "bytes": 280264
+            }
+          ],
+          "jpeg": [
+            {
+              "width": 960,
+              "height": 1440,
+              "src": "/media/scenes-05-snow-cable-car/detail-960.jpg",
+              "format": "jpeg",
+              "bytes": 296969
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/scenes-05-snow-cable-car/detail-1024.jpg",
+              "format": "jpeg",
+              "bytes": 334591
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "image-seaside-01-coastal-bus",
+      "slug": "seaside-01-coastal-bus",
+      "source": "seaside/01-coastal-bus.png",
+      "sourceHash": "5d8d3c5e9711de3a47fdad3bf5489b2d3cf924a715465b3e159454e7ceb837ea",
+      "width": 1024,
+      "height": 1536,
+      "format": "png",
+      "collection": "seaside",
+      "alt": "复古巴士驶过弯曲海岸公路，蓝色海湾与绿树映衬白云。",
+      "caption": "海岸巴士 · 海岸夏日",
+      "placeholder": "data:image/jpeg;base64,/9j/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wgARCAAwACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAAAwQAAgUB/8QAGAEBAAMBAAAAAAAAAAAAAAAAAwECBAD/2gAMAwEAAhADEAAAAS3GoBqk6obqwVBg9UvL10UrLUxagvEiP//EAB0QAQACAwADAQAAAAAAAAAAAAEAAgMREhATISL/2gAIAQEAAQUCa/D9Qw9Vm7VmO50TLVtMbp9lB9xOxl6BOdxPBYag+NEcc+kLxRp//8QAGxEAAgIDAQAAAAAAAAAAAAAAAAECEQMhQRL/2gAIAQMBAT8BJQ1olfBZGemuFo//xAAaEQACAwEBAAAAAAAAAAAAAAABAgARIQNR/9oACAECAQE/AQPYj7U40MMKLFQVhj88n//EAB4QAAEDBQEBAAAAAAAAAAAAAAABESECECIxUUFx/9oACAEBAAY/AsVdOG5HebPP0R6ZIH4NXrwxpMkNlJF2W7GzhI/D/8QAHhAAAgICAwEBAAAAAAAAAAAAAREAITFhQVFxgfH/2gAIAQEAAT8hWx8kHRmByDKFfahBBRjAGhGQhwnbXE01K0qY7gsiWHcsDOAmQHUCyvCJcKrqPYjCAwlK+VAOm2jGOCDErr7BgcF33E7dQ+T2F/EWpLJYn//aAAwDAQACAAMAAAAQFalaGy//xAAbEQACAwADAAAAAAAAAAAAAAAAAREhMaGxwf/aAAgBAwEBPxB7CoXbXYqPE8kuHZJl+hMtH//EAB0RAQACAQUBAAAAAAAAAAAAABEAATFhgaGx0cH/2gAIAQIBAT8QMLr77LaTHUsj/IJSWgnEuyb3uf/EACEQAQACAQQCAwEAAAAAAAAAAAEAESExQVFhcYHB0fDh/9oACAEBAAE/EGBwyT+uKBpuqs4iZIGhjxEQImzFwmiCE/kSMBWOV79yi0FMGz1EF9EAz+cRIiLIVTllgwysNB6hpTN8ovQx10iXGyvoN6dX9xvKUdufNRACtclSvbB3IVITIhmKZXeZXvEClKXLBkCmiPPbhJTVtxHztKeLDnV7lrIrq0M5BBsVt8z/2Q==",
+      "variants": {
+        "thumb": {
+          "avif": [
+            {
+              "width": 480,
+              "height": 720,
+              "src": "/media/seaside-01-coastal-bus/thumb-480.avif",
+              "format": "avif",
+              "bytes": 41542
+            },
+            {
+              "width": 768,
+              "height": 1152,
+              "src": "/media/seaside-01-coastal-bus/thumb-768.avif",
+              "format": "avif",
+              "bytes": 98983
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/seaside-01-coastal-bus/thumb-1024.avif",
+              "format": "avif",
+              "bytes": 170891
+            }
+          ],
+          "webp": [
+            {
+              "width": 480,
+              "height": 720,
+              "src": "/media/seaside-01-coastal-bus/thumb-480.webp",
+              "format": "webp",
+              "bytes": 60992
+            },
+            {
+              "width": 768,
+              "height": 1152,
+              "src": "/media/seaside-01-coastal-bus/thumb-768.webp",
+              "format": "webp",
+              "bytes": 144626
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/seaside-01-coastal-bus/thumb-1024.webp",
+              "format": "webp",
+              "bytes": 249646
+            }
+          ],
+          "jpeg": [
+            {
+              "width": 480,
+              "height": 720,
+              "src": "/media/seaside-01-coastal-bus/thumb-480.jpg",
+              "format": "jpeg",
+              "bytes": 81666
+            },
+            {
+              "width": 768,
+              "height": 1152,
+              "src": "/media/seaside-01-coastal-bus/thumb-768.jpg",
+              "format": "jpeg",
+              "bytes": 185968
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/seaside-01-coastal-bus/thumb-1024.jpg",
+              "format": "jpeg",
+              "bytes": 313257
+            }
+          ]
+        },
+        "detail": {
+          "avif": [
+            {
+              "width": 960,
+              "height": 1440,
+              "src": "/media/seaside-01-coastal-bus/detail-960.avif",
+              "format": "avif",
+              "bytes": 151640
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/seaside-01-coastal-bus/detail-1024.avif",
+              "format": "avif",
+              "bytes": 170891
+            }
+          ],
+          "webp": [
+            {
+              "width": 960,
+              "height": 1440,
+              "src": "/media/seaside-01-coastal-bus/detail-960.webp",
+              "format": "webp",
+              "bytes": 214318
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/seaside-01-coastal-bus/detail-1024.webp",
+              "format": "webp",
+              "bytes": 249646
+            }
+          ],
+          "jpeg": [
+            {
+              "width": 960,
+              "height": 1440,
+              "src": "/media/seaside-01-coastal-bus/detail-960.jpg",
+              "format": "jpeg",
+              "bytes": 278907
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/seaside-01-coastal-bus/detail-1024.jpg",
+              "format": "jpeg",
+              "bytes": 313257
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "image-seaside-02-white-house",
+      "slug": "seaside-02-white-house",
+      "source": "seaside/02-white-house.png",
+      "sourceHash": "ee3aba43d5c1a61f19b2d1a78278c9eefb00ca86b6a2529cd4c9c9f47a7e701d",
+      "width": 1024,
+      "height": 1536,
+      "format": "png",
+      "collection": "seaside",
+      "alt": "蓝色百叶窗的白色小屋旁，行人沿花树环绕的坡道走向海边。",
+      "caption": "白色小屋 · 海岸夏日",
+      "placeholder": "data:image/jpeg;base64,/9j/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wgARCAAwACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAAAwQAAgUB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwIE/9oADAMBAAIQAxAAAAEKzsrLtP0Z7Q05fqDdkaZdDkGMdOmywn//xAAeEAACAQQDAQAAAAAAAAAAAAABAgADERIhEBMiI//aAAgBAQABBQJWMHorR264sFtKItw5UzsWCotnrAHO/K3zIynT4soJQE1fmS5M2YpKzTz/xAAbEQACAgMBAAAAAAAAAAAAAAAAAQIhERIyE//aAAgBAwEBPwHqjyzybsjVsckyOD//xAAbEQACAwEBAQAAAAAAAAAAAAAAAQIDERIyUf/aAAgBAgEBPwGFbg+hWZ6HGObon1uEauSa+H//xAAeEAACAgICAwAAAAAAAAAAAAAAAREhAjEQQRIiUf/aAAgBAQAGPwIR7MghmuLIihWQPySSWuLFohtyXkKWYpLvoo2ak+Fn/8QAHRAAAwEBAQADAQAAAAAAAAAAAAERITFBUWFxgf/aAAgBAQABPyG1V99EcErEVp+FISPRC0c/LKmvgztNGLumEVVggquzUQrKBD1p+Di6hBiVLj9RSmPbvCN0vs4UFPow0PbDvH3LdG3UE/AOd/A35L9rD//aAAwDAQACAAMAAAAQR9dlTj//xAAZEQEBAQEBAQAAAAAAAAAAAAABEQAhMYH/2gAIAQMBAT8QotQYO4vJkgT5okMo77v/xAAbEQACAgMBAAAAAAAAAAAAAAAAAREhMUFxYf/aAAgBAgEBPxCpY0NeWoslDCZ7oSmaG+OH/8QAIBABAAICAwACAwAAAAAAAAAAAQARITFBUWFxsYHR4f/aAAgBAQABPxAFydWmu4KN4bHCw4aOB1M72GR8jrR3B5HmhKWMVzXsy2xzzMggWkG/xLCbEgXADcaLI/pxcDbUKuRFet551L3AqkYsoB7iCtGrODbFr2hUaUL9ymiRq90fO2I2IcIoEcP8gvcwlIJ3BDUhtTpX0EqAY0bl7Qzsphuvg2SuqFsJX6n/2Q==",
+      "variants": {
+        "thumb": {
+          "avif": [
+            {
+              "width": 480,
+              "height": 720,
+              "src": "/media/seaside-02-white-house/thumb-480.avif",
+              "format": "avif",
+              "bytes": 38987
+            },
+            {
+              "width": 768,
+              "height": 1152,
+              "src": "/media/seaside-02-white-house/thumb-768.avif",
+              "format": "avif",
+              "bytes": 97627
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/seaside-02-white-house/thumb-1024.avif",
+              "format": "avif",
+              "bytes": 174080
+            }
+          ],
+          "webp": [
+            {
+              "width": 480,
+              "height": 720,
+              "src": "/media/seaside-02-white-house/thumb-480.webp",
+              "format": "webp",
+              "bytes": 57280
+            },
+            {
+              "width": 768,
+              "height": 1152,
+              "src": "/media/seaside-02-white-house/thumb-768.webp",
+              "format": "webp",
+              "bytes": 143698
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/seaside-02-white-house/thumb-1024.webp",
+              "format": "webp",
+              "bytes": 258634
+            }
+          ],
+          "jpeg": [
+            {
+              "width": 480,
+              "height": 720,
+              "src": "/media/seaside-02-white-house/thumb-480.jpg",
+              "format": "jpeg",
+              "bytes": 76681
+            },
+            {
+              "width": 768,
+              "height": 1152,
+              "src": "/media/seaside-02-white-house/thumb-768.jpg",
+              "format": "jpeg",
+              "bytes": 180934
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/seaside-02-white-house/thumb-1024.jpg",
+              "format": "jpeg",
+              "bytes": 314454
+            }
+          ]
+        },
+        "detail": {
+          "avif": [
+            {
+              "width": 960,
+              "height": 1440,
+              "src": "/media/seaside-02-white-house/detail-960.avif",
+              "format": "avif",
+              "bytes": 152946
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/seaside-02-white-house/detail-1024.avif",
+              "format": "avif",
+              "bytes": 174080
+            }
+          ],
+          "webp": [
+            {
+              "width": 960,
+              "height": 1440,
+              "src": "/media/seaside-02-white-house/detail-960.webp",
+              "format": "webp",
+              "bytes": 216724
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/seaside-02-white-house/detail-1024.webp",
+              "format": "webp",
+              "bytes": 258634
+            }
+          ],
+          "jpeg": [
+            {
+              "width": 960,
+              "height": 1440,
+              "src": "/media/seaside-02-white-house/detail-960.jpg",
+              "format": "jpeg",
+              "bytes": 278738
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/seaside-02-white-house/detail-1024.jpg",
+              "format": "jpeg",
+              "bytes": 314454
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "image-seaside-03-harbor",
+      "slug": "seaside-03-harbor",
+      "source": "seaside/03-harbor.png",
+      "sourceHash": "8f98fe8224f5f1153cf74fe88b301520d9e68d719e4aaad2db175954ffa9a704",
+      "width": 1024,
+      "height": 1536,
+      "format": "png",
+      "collection": "seaside",
+      "alt": "白色与珊瑚色渔船停靠石砌码头，海面倒影映着沿岸小屋。",
+      "caption": "港口渔船 · 海岸夏日",
+      "placeholder": "data:image/jpeg;base64,/9j/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wgARCAAwACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAwQBAgX/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQAAf/aAAwDAQACEAMQAAAB6q6ofPAdvnjqsjZgqWJM4kXtgFPpl3//xAAeEAACAgICAwAAAAAAAAAAAAABAgARAxITIRAiQf/aAAgBAQABBQKY8YIdCvgYpdTMCVTbY5pzGcmxaw9QJ1TRp9DGLenRCqwPqsyOGKmn/8QAGREAAwEBAQAAAAAAAAAAAAAAAAECERJR/9oACAEDAQE/AZj04WkuqJeomHJuH//EABsRAAMAAgMAAAAAAAAAAAAAAAABAhFBEhNR/9oACAECAQE/Aavw7HoalFQtsbyOOSP/xAAfEAACAgEEAwAAAAAAAAAAAAAAARAhEQIiMXESUWH/2gAIAQEABj8CLlRWejcUo9Fdy1yzVWNsPLH5UN2y+DjH2Ef/xAAfEAEAAwEAAgIDAAAAAAAAAAABABExIRBRQWFxgZH/2gAIAQEAAT8hluv31Fe454K+rfkcnSklzsTBDTXBe74H2gkGXxHoPYLW604S3qNdyvuIIXpzseODQGdAjVRwv4hKKCV01iELjD3MsPXZQ2fkTkD9ssE//9oADAMBAAIAAwAAABDpL5aYD//EABkRAQEBAQEBAAAAAAAAAAAAAAEAETEhYf/aAAgBAwEBPxDN2pfNwpEAiu3thf/EABgRAQEBAQEAAAAAAAAAAAAAAAEAESFB/9oACAECAQE/ENzK5gO+xfbQMG+loj7f/8QAHhABAAMAAgMBAQAAAAAAAAAAAQARITFRQXGBkWH/2gAIAQEAAT8QqAFSbBVUwfZt3O/5Bo1d5D1BVD33Oo7EfsGg2AYwLs8Ai8KzdetVx9h8XeaQ8N9R2ttpsENVeZ0JXKI/nhfgr1X2C5yArVKHVA1NqRKy2LZcvh1SAl3uriceiJt4+e4bKoI227CNRt8UTnqDONqO/swjfY3+cS6DjndSf//Z",
+      "variants": {
+        "thumb": {
+          "avif": [
+            {
+              "width": 480,
+              "height": 720,
+              "src": "/media/seaside-03-harbor/thumb-480.avif",
+              "format": "avif",
+              "bytes": 44461
+            },
+            {
+              "width": 768,
+              "height": 1152,
+              "src": "/media/seaside-03-harbor/thumb-768.avif",
+              "format": "avif",
+              "bytes": 105808
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/seaside-03-harbor/thumb-1024.avif",
+              "format": "avif",
+              "bytes": 181597
+            }
+          ],
+          "webp": [
+            {
+              "width": 480,
+              "height": 720,
+              "src": "/media/seaside-03-harbor/thumb-480.webp",
+              "format": "webp",
+              "bytes": 67286
+            },
+            {
+              "width": 768,
+              "height": 1152,
+              "src": "/media/seaside-03-harbor/thumb-768.webp",
+              "format": "webp",
+              "bytes": 162368
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/seaside-03-harbor/thumb-1024.webp",
+              "format": "webp",
+              "bytes": 280240
+            }
+          ],
+          "jpeg": [
+            {
+              "width": 480,
+              "height": 720,
+              "src": "/media/seaside-03-harbor/thumb-480.jpg",
+              "format": "jpeg",
+              "bytes": 85169
+            },
+            {
+              "width": 768,
+              "height": 1152,
+              "src": "/media/seaside-03-harbor/thumb-768.jpg",
+              "format": "jpeg",
+              "bytes": 200520
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/seaside-03-harbor/thumb-1024.jpg",
+              "format": "jpeg",
+              "bytes": 339824
+            }
+          ]
+        },
+        "detail": {
+          "avif": [
+            {
+              "width": 960,
+              "height": 1440,
+              "src": "/media/seaside-03-harbor/detail-960.avif",
+              "format": "avif",
+              "bytes": 160865
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/seaside-03-harbor/detail-1024.avif",
+              "format": "avif",
+              "bytes": 181597
+            }
+          ],
+          "webp": [
+            {
+              "width": 960,
+              "height": 1440,
+              "src": "/media/seaside-03-harbor/detail-960.webp",
+              "format": "webp",
+              "bytes": 238696
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/seaside-03-harbor/detail-1024.webp",
+              "format": "webp",
+              "bytes": 280240
+            }
+          ],
+          "jpeg": [
+            {
+              "width": 960,
+              "height": 1440,
+              "src": "/media/seaside-03-harbor/detail-960.jpg",
+              "format": "jpeg",
+              "bytes": 301468
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/seaside-03-harbor/detail-1024.jpg",
+              "format": "jpeg",
+              "bytes": 339824
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "image-seaside-04-lighthouse",
+      "slug": "seaside-04-lighthouse",
+      "source": "seaside/04-lighthouse.png",
+      "sourceHash": "21b9104b7437debdde2d7d1fe2373d6cfa485ff898294d69bb54d5c3b6b239b9",
+      "width": 1024,
+      "height": 1536,
+      "format": "png",
+      "collection": "seaside",
+      "alt": "红顶白色灯塔立于绿色海岬，骑行者沿小路驶向远处。",
+      "caption": "灯塔骑行 · 海岸夏日",
+      "placeholder": "data:image/jpeg;base64,/9j/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wgARCAAwACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABAIDBQH/xAAYAQADAQEAAAAAAAAAAAAAAAABAgQDAP/aAAwDAQACEAMQAAABrek0S5i6hg0+hnk6NA3y1GyESuWzWg//xAAdEAEAAgIDAQEAAAAAAAAAAAABAAIDERITIiEx/9oACAEBAAEFApTGsvjGscbxI/Tq1Vy1ncTmJzKw1YdSn7f3KiPUS3yFtlcnk9Y1tjeRaf/EABkRAAMBAQEAAAAAAAAAAAAAAAABAhEhUf/aAAgBAwEBPwGY70uPB1SE6wSRp//EABwRAAMAAgMBAAAAAAAAAAAAAAABAhEhAxIxUf/aAAgBAgEBPwGr1oi/pPSlkd8aYsN4Klr0/8QAIBAAAQMEAgMAAAAAAAAAAAAAAAERIRAiMUECcRJRgf/aAAgBAQAGPwInBbqnunYpBKDIp4rqrkoykSTGx04fTIw2DfZch//EAB8QAQACAgIDAQEAAAAAAAAAAAEAESFBMVFhgaEQ0f/aAAgBAQABPyGKiU7xYmn6/Kdwr4JcC4bAa7RNpbDnUFswb+0ecLMFMw7nHcQFladddygsV3qaN9+II7IJmPqa5j1MMY8hCP8ACYhY7bnBD1P/2gAMAwEAAgADAAAAEAgRdFUP/8QAGREBAQADAQAAAAAAAAAAAAAAAQAQEUFh/9oACAEDAQE/EODIuxISfeAG/8QAGxEAAgIDAQAAAAAAAAAAAAAAAAERITFBoZH/2gAIAQIBAT8Q2IhKGKt0irZkd8GdfD//xAAgEAEAAwABBQADAAAAAAAAAAABABEhMUFRYXGBkeHw/9oACAEBAAE/EIxxF+UoqZU3EIYCKiGh7l/YNAhtQL+hA94uIYg7PEvvnMPyyttoMaMZOpoK4Yb/ACq6cjE7DBtSpjR1/U5AjsZTjzHYycbaHS5RceILO6PBOSLujf6olwLRYSeSFz5yOp9d4CWW5JT7CanXCm17e45LB4KfjpA4lbitPM//2Q==",
+      "variants": {
+        "thumb": {
+          "avif": [
+            {
+              "width": 480,
+              "height": 720,
+              "src": "/media/seaside-04-lighthouse/thumb-480.avif",
+              "format": "avif",
+              "bytes": 40139
+            },
+            {
+              "width": 768,
+              "height": 1152,
+              "src": "/media/seaside-04-lighthouse/thumb-768.avif",
+              "format": "avif",
+              "bytes": 96529
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/seaside-04-lighthouse/thumb-1024.avif",
+              "format": "avif",
+              "bytes": 165400
+            }
+          ],
+          "webp": [
+            {
+              "width": 480,
+              "height": 720,
+              "src": "/media/seaside-04-lighthouse/thumb-480.webp",
+              "format": "webp",
+              "bytes": 58928
+            },
+            {
+              "width": 768,
+              "height": 1152,
+              "src": "/media/seaside-04-lighthouse/thumb-768.webp",
+              "format": "webp",
+              "bytes": 141932
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/seaside-04-lighthouse/thumb-1024.webp",
+              "format": "webp",
+              "bytes": 237774
+            }
+          ],
+          "jpeg": [
+            {
+              "width": 480,
+              "height": 720,
+              "src": "/media/seaside-04-lighthouse/thumb-480.jpg",
+              "format": "jpeg",
+              "bytes": 78661
+            },
+            {
+              "width": 768,
+              "height": 1152,
+              "src": "/media/seaside-04-lighthouse/thumb-768.jpg",
+              "format": "jpeg",
+              "bytes": 181200
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/seaside-04-lighthouse/thumb-1024.jpg",
+              "format": "jpeg",
+              "bytes": 306015
+            }
+          ]
+        },
+        "detail": {
+          "avif": [
+            {
+              "width": 960,
+              "height": 1440,
+              "src": "/media/seaside-04-lighthouse/detail-960.avif",
+              "format": "avif",
+              "bytes": 147463
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/seaside-04-lighthouse/detail-1024.avif",
+              "format": "avif",
+              "bytes": 165400
+            }
+          ],
+          "webp": [
+            {
+              "width": 960,
+              "height": 1440,
+              "src": "/media/seaside-04-lighthouse/detail-960.webp",
+              "format": "webp",
+              "bytes": 201162
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/seaside-04-lighthouse/detail-1024.webp",
+              "format": "webp",
+              "bytes": 237774
+            }
+          ],
+          "jpeg": [
+            {
+              "width": 960,
+              "height": 1440,
+              "src": "/media/seaside-04-lighthouse/detail-960.jpg",
+              "format": "jpeg",
+              "bytes": 271959
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/seaside-04-lighthouse/detail-1024.jpg",
+              "format": "jpeg",
+              "bytes": 306015
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "image-seaside-05-seaside-stairs",
+      "slug": "seaside-05-seaside-stairs",
+      "source": "seaside/05-seaside-stairs.png",
+      "sourceHash": "ce964cfa5ebfc1d6bf06495eeaa191e7145efd6456e121ed19020de363d7334b",
+      "width": 1024,
+      "height": 1536,
+      "format": "png",
+      "collection": "seaside",
+      "alt": "白色建筑夹着通向海面的阶梯，珊瑚色遮阳棚下停着小踏板车。",
+      "caption": "海边阶梯 · 海岸夏日",
+      "placeholder": "data:image/jpeg;base64,/9j/2wBDABIMDRANCxIQDhAUExIVGywdGxgYGzYnKSAsQDlEQz85Pj1HUGZXR0thTT0+WXlaYWltcnNyRVV9hnxvhWZwcm7/2wBDARMUFBsXGzQdHTRuST5Jbm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm7/wgARCAAwACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABAIDAQX/xAAWAQEBAQAAAAAAAAAAAAAAAAADAgH/2gAMAwEAAhADEAAAAeJ7eloP0zpIrjpXehtFOEaai5zLJcf/xAAeEAACAgICAwAAAAAAAAAAAAABAgADERIEIiExM//aAAgBAQABBQINEQtGrXSa4fjklY2taVEwuRBc0+iV9OQ3mAdhg2aNK6yAR2BzN4rbR0Jno//EABkRAAMBAQEAAAAAAAAAAAAAAAABAhExA//aAAgBAwEBPwGpTZUbwtuoPPesWFH/xAAcEQACAgIDAAAAAAAAAAAAAAABAgARAyESMWH/2gAIAQIBAT8BRmXUGTiNxQEIuZGHSxhVeRBuxP/EAB8QAAICAQQDAAAAAAAAAAAAAAAhAREQAiIxUUGRsf/aAAgBAQAGPwJ4XOPExqGM4sRUKsND4iC/ZBcyrQ+iYnGlVuO6wvpF9n//xAAfEAEAAwADAAIDAAAAAAAAAAABABEhQVFhMXEQkeH/2gAIAQEAAT8hu9TVsAhEih7+KVVZv6gFudS4NB07nx9eTihiuoA4fubUzUBo/gmweTfssDJQUBQHLOYY0+5gX8PcrBmaZUDHwyi4HYsOWFvBXwgWn//aAAwDAQACAAMAAAAQkL7oQC//xAAZEQEAAwEBAAAAAAAAAAAAAAABABEhQTH/2gAIAQMBAT8Qsyb2Wyc0edmNrPYOtxBYz//EABsRAQEAAgMBAAAAAAAAAAAAAAEAITERQWGB/9oACAECAQE/EBTcdeXMOcjLDuAgisw+EKE6v//EACEQAQADAAIBBAMAAAAAAAAAAAEAESExQVFhcZGhEMHR/9oACAEBAAE/EKFWMVZXMEQg75faO8Ddq+/xdJITd1Sz7nq0xKxhlBqUKYxQFLaUvs9QGwKQsW50dkUUUY0PolMUPAi02prOZUSFb0Yhq1gIFFu/mHYaTXxKsuhIA+plzWFxT6RgsAWcnz8QTSzsdncudRi/aF1SXjB/ZaUUhtOEHBV1ohCxV2+e+p//2Q==",
+      "variants": {
+        "thumb": {
+          "avif": [
+            {
+              "width": 480,
+              "height": 720,
+              "src": "/media/seaside-05-seaside-stairs/thumb-480.avif",
+              "format": "avif",
+              "bytes": 41731
+            },
+            {
+              "width": 768,
+              "height": 1152,
+              "src": "/media/seaside-05-seaside-stairs/thumb-768.avif",
+              "format": "avif",
+              "bytes": 98566
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/seaside-05-seaside-stairs/thumb-1024.avif",
+              "format": "avif",
+              "bytes": 172962
+            }
+          ],
+          "webp": [
+            {
+              "width": 480,
+              "height": 720,
+              "src": "/media/seaside-05-seaside-stairs/thumb-480.webp",
+              "format": "webp",
+              "bytes": 59982
+            },
+            {
+              "width": 768,
+              "height": 1152,
+              "src": "/media/seaside-05-seaside-stairs/thumb-768.webp",
+              "format": "webp",
+              "bytes": 145398
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/seaside-05-seaside-stairs/thumb-1024.webp",
+              "format": "webp",
+              "bytes": 253298
+            }
+          ],
+          "jpeg": [
+            {
+              "width": 480,
+              "height": 720,
+              "src": "/media/seaside-05-seaside-stairs/thumb-480.jpg",
+              "format": "jpeg",
+              "bytes": 82774
+            },
+            {
+              "width": 768,
+              "height": 1152,
+              "src": "/media/seaside-05-seaside-stairs/thumb-768.jpg",
+              "format": "jpeg",
+              "bytes": 189452
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/seaside-05-seaside-stairs/thumb-1024.jpg",
+              "format": "jpeg",
+              "bytes": 320919
+            }
+          ]
+        },
+        "detail": {
+          "avif": [
+            {
+              "width": 960,
+              "height": 1440,
+              "src": "/media/seaside-05-seaside-stairs/detail-960.avif",
+              "format": "avif",
+              "bytes": 152745
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/seaside-05-seaside-stairs/detail-1024.avif",
+              "format": "avif",
+              "bytes": 172962
+            }
+          ],
+          "webp": [
+            {
+              "width": 960,
+              "height": 1440,
+              "src": "/media/seaside-05-seaside-stairs/detail-960.webp",
+              "format": "webp",
+              "bytes": 215192
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/seaside-05-seaside-stairs/detail-1024.webp",
+              "format": "webp",
+              "bytes": 253298
+            }
+          ],
+          "jpeg": [
+            {
+              "width": 960,
+              "height": 1440,
+              "src": "/media/seaside-05-seaside-stairs/detail-960.jpg",
+              "format": "jpeg",
+              "bytes": 284879
+            },
+            {
+              "width": 1024,
+              "height": 1536,
+              "src": "/media/seaside-05-seaside-stairs/detail-1024.jpg",
+              "format": "jpeg",
+              "bytes": 320919
             }
           ]
         }

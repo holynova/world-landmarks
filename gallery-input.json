@@ -82,6 +82,46 @@
       "bytes": 3059192
     },
     {
+      "source": "scenes/01-mountain-train.png",
+      "bytes": 3174449
+    },
+    {
+      "source": "scenes/02-rainy-city.png",
+      "bytes": 3296339
+    },
+    {
+      "source": "scenes/03-desert-market.png",
+      "bytes": 3132475
+    },
+    {
+      "source": "scenes/04-autumn-river.png",
+      "bytes": 3279551
+    },
+    {
+      "source": "scenes/05-snow-cable-car.png",
+      "bytes": 3017000
+    },
+    {
+      "source": "seaside/01-coastal-bus.png",
+      "bytes": 2892007
+    },
+    {
+      "source": "seaside/02-white-house.png",
+      "bytes": 2984578
+    },
+    {
+      "source": "seaside/03-harbor.png",
+      "bytes": 3038642
+    },
+    {
+      "source": "seaside/04-lighthouse.png",
+      "bytes": 2846111
+    },
+    {
+      "source": "seaside/05-seaside-stairs.png",
+      "bytes": 2940916
+    },
+    {
       "source": "spain/alhambra.png",
       "bytes": 3092238
     },

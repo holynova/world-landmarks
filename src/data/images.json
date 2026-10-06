@@ -279,6 +279,76 @@
       "alt": "飞碟形塔顶耸立城市上空，远处雪山露出轮廓。",
       "caption": "太空针塔 · 西雅图",
       "slug": "usa-space-needle"
+    },
+    {
+      "source": "seaside/01-coastal-bus.png",
+      "collection": "seaside",
+      "alt": "复古巴士驶过弯曲海岸公路，蓝色海湾与绿树映衬白云。",
+      "caption": "海岸巴士 · 海岸夏日",
+      "slug": "seaside-01-coastal-bus"
+    },
+    {
+      "source": "seaside/02-white-house.png",
+      "collection": "seaside",
+      "alt": "蓝色百叶窗的白色小屋旁，行人沿花树环绕的坡道走向海边。",
+      "caption": "白色小屋 · 海岸夏日",
+      "slug": "seaside-02-white-house"
+    },
+    {
+      "source": "seaside/03-harbor.png",
+      "collection": "seaside",
+      "alt": "白色与珊瑚色渔船停靠石砌码头，海面倒影映着沿岸小屋。",
+      "caption": "港口渔船 · 海岸夏日",
+      "slug": "seaside-03-harbor"
+    },
+    {
+      "source": "seaside/04-lighthouse.png",
+      "collection": "seaside",
+      "alt": "红顶白色灯塔立于绿色海岬，骑行者沿小路驶向远处。",
+      "caption": "灯塔骑行 · 海岸夏日",
+      "slug": "seaside-04-lighthouse"
+    },
+    {
+      "source": "seaside/05-seaside-stairs.png",
+      "collection": "seaside",
+      "alt": "白色建筑夹着通向海面的阶梯，珊瑚色遮阳棚下停着小踏板车。",
+      "caption": "海边阶梯 · 海岸夏日",
+      "slug": "seaside-05-seaside-stairs"
+    },
+    {
+      "source": "scenes/01-mountain-train.png",
+      "collection": "scenes",
+      "alt": "橙色列车穿过高架石桥，桥下河流蜿蜒于森林峡谷。",
+      "caption": "山间列车 · 多样风景",
+      "slug": "scenes-01-mountain-train"
+    },
+    {
+      "source": "scenes/02-rainy-city.png",
+      "collection": "scenes",
+      "alt": "黄色电车穿过城市街口，行人与雨伞倒映在湿润路面。",
+      "caption": "雨后电车 · 多样风景",
+      "slug": "scenes-02-rainy-city"
+    },
+    {
+      "source": "scenes/03-desert-market.png",
+      "collection": "scenes",
+      "alt": "赭色庭院里的靛蓝棚布遮着水果摊，拱门外是骆驼与金色沙丘。",
+      "caption": "沙漠集市 · 多样风景",
+      "slug": "scenes-03-desert-market"
+    },
+    {
+      "source": "scenes/04-autumn-river.png",
+      "collection": "scenes",
+      "alt": "划船者漂过青绿色河面，橙色秋叶垂落在石桥与农舍前。",
+      "caption": "秋日划船 · 多样风景",
+      "slug": "scenes-04-autumn-river"
+    },
+    {
+      "source": "scenes/05-snow-cable-car.png",
+      "collection": "scenes",
+      "alt": "红色缆车悬于雪山与松林上空，淡黄色太阳点亮冬日天空。",
+      "caption": "雪山缆车 · 多样风景",
+      "slug": "scenes-05-snow-cable-car"
     }
   ]
 }

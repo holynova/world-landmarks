@@ -1,6 +1,6 @@
 {
   "title": "世界景点 · 纸上旅行",
-  "description": "四个国家，40 幅风景。用明亮色块与纸张肌理，漫游城市、建筑与山川。AI 生成插画 · v1.0.2",
+  "description": "50 幅风景与地标。海岸夏日、多样场景与四国景点，用明亮色块与纸张肌理开启旅行。AI 生成插画 · v1.0.3",
   "language": "zh-CN",
   "features": {
     "download": true,
@@ -9,7 +9,7 @@
   "layout": {
     "mode": "grid",
     "batchSize": 24,
-    "maxOutputBytes": 150000000,
+    "maxOutputBytes": 200000000,
     "thumbWidths": [
       480,
       768
