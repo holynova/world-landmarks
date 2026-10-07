@@ -144,15 +144,22 @@ function preloadAdjacent(image: ImageManifest): void {
   }
 }
 
+let lightboxRevision = 0;
+
 function setLightboxImage(image: ImageManifest): void {
   currentImageId = image.id;
+  const req = ++lightboxRevision;
+  const thumb = image.variants.thumb;
   const detail = image.variants.detail;
-  const fallback = detail.jpeg.at(-1) ?? detail.jpeg[0];
-  if (lightboxAvif) lightboxAvif.srcset = variantSrcset(detail.avif);
-  if (lightboxWebp) lightboxWebp.srcset = variantSrcset(detail.webp);
+  const thumbFallback = thumb.jpeg.at(-1) ?? thumb.jpeg[0];
+  const detailFallback = detail.jpeg.at(-1) ?? detail.jpeg[0];
+
+  // 1. Immediately display thumbnail while detail loads and decodes
+  if (lightboxAvif) lightboxAvif.srcset = variantSrcset(thumb.avif);
+  if (lightboxWebp) lightboxWebp.srcset = variantSrcset(thumb.webp);
   if (lightboxImage) {
-    lightboxImage.src = toUrl(fallback.src);
-    lightboxImage.srcset = variantSrcset(detail.jpeg);
+    lightboxImage.src = toUrl(thumbFallback.src);
+    lightboxImage.srcset = variantSrcset(thumb.jpeg);
     lightboxImage.sizes = '100vw';
     lightboxImage.width = image.width;
     lightboxImage.height = image.height;
@@ -163,9 +170,31 @@ function setLightboxImage(image: ImageManifest): void {
   const index = images.findIndex((candidate) => candidate.id === image.id);
   if (lightboxPosition) lightboxPosition.textContent = `${index + 1} / ${images.length}`;
   if (downloadLink) {
-    downloadLink.href = toUrl(image.download?.src || fallback.src);
+    downloadLink.href = toUrl(image.download?.src || detailFallback.src);
     downloadLink.download = `${image.slug}.${image.download ? "png" : "jpg"}`;
   }
+
+  // 2. Offscreen decode high-res detail and swap seamlessly
+  const offscreen = new Image();
+  const commit = async (): Promise<void> => {
+    try {
+      if (typeof offscreen.decode === 'function') await offscreen.decode();
+    } catch {}
+    if (req === lightboxRevision) {
+      if (lightboxAvif) lightboxAvif.srcset = variantSrcset(detail.avif);
+      if (lightboxWebp) lightboxWebp.srcset = variantSrcset(detail.webp);
+      if (lightboxImage) {
+        lightboxImage.src = toUrl(detailFallback.src);
+        lightboxImage.srcset = variantSrcset(detail.jpeg);
+      }
+    }
+  };
+  offscreen.onload = () => { void commit(); };
+  offscreen.src = toUrl(detailFallback.src);
+  if (offscreen.complete && offscreen.naturalWidth > 0) {
+    void commit();
+  }
+
   preloadAdjacent(image);
 }
 
@@ -179,6 +208,7 @@ function openLightbox(image: ImageManifest): void {
 }
 
 function closeLightbox(): void {
+  lightboxRevision += 1;
   if (lightbox.open) lightbox.close();
   previouslyFocused?.focus();
   previouslyFocused = null;
