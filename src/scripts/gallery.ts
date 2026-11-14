@@ -254,10 +254,21 @@ shareButton?.addEventListener('click', async () => {
   const image = manifest.images.find((candidate) => candidate.id === currentImageId);
   if (!image) return;
   const shareData = { title: image.caption || image.alt, text: image.alt, url: new URL(`?image=${encodeURIComponent(image.slug)}`, window.location.href).href };
+  const flash = (text: string): void => {
+    if (!shareButton) return;
+    shareButton.textContent = text;
+    setTimeout(() => { shareButton.textContent = '分享'; }, 1800);
+  };
   try {
-    if (navigator.share) await navigator.share(shareData);
-    else if (navigator.clipboard) await navigator.clipboard.writeText(shareData.url);
-    if (shareButton) {shareButton.textContent = '已分享'; setTimeout(() => {shareButton.textContent = '分享';}, 1800);}
+    if (navigator.share) {
+      await navigator.share(shareData);
+      flash('已分享');
+    } else if (navigator.clipboard) {
+      await navigator.clipboard.writeText(shareData.url);
+      flash('链接已复制');
+    } else {
+      flash('无法分享');
+    }
     trackGalleryEvent('share_click', { image_id: image.id, collection: image.collection });
   } catch {
     // A cancelled native share is intentionally silent.

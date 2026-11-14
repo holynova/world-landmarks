@@ -15,3 +15,5 @@ User-requested lightbox customization (v1.0.2): portrait details fit available s
 v1.0.3: adds all ten earlier originals in seaside/ and scenes/, two groups of five. Fifty unique PNGs total; six filters; existing forty preserved. Output budget grows to 200 MB for the expanded derivative library. Height-fit lightbox rules retained. Original-download release target updated to v1.0.3.
 
 v1.0.4: ten Korean landmark PNGs using hn-paper-gouache required reference images; total sixty; seven collections. Full source URLs and prompts preserved. Existing height-fit lightbox retained.
+
+审计#37（2026-11-14）：60 条标题中间点改括号式（「圣家堂（巴塞罗那）」）；分类名去掉手写计数（改由页面按清单自动计数，避免漂移）；描述去掉版本号；页脚链接分隔改顿号；计数文案改为「已显示 X / 共 Y 张」；分享反馈区分「已分享/链接已复制/无法分享」；关于页去掉内部术语（subagent/incoming 目录）与版本号，来源列表中间点去掉；颜色改暖灰+黛蓝，editorial 主题陶土强调色改黛绿；字号收敛为 0.8rem/1rem/标题 clamp 三种。

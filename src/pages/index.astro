@@ -11,6 +11,7 @@ const collections = CollectionsConfigSchema.parse(collectionsData).collections.t
 const manifest = ManifestSchema.parse(manifestData);
 const initialImages = manifest.images.slice(0, site.layout.batchSize);
 const remainingImages = manifest.images.length - initialImages.length;
+const countFor = (id: string) => manifest.images.filter((image) => image.collection === id).length;
 const manifestJson = JSON.stringify(manifest).replace(/</g, '\\u003c');
 const configJson = JSON.stringify({
   features: site.features,
@@ -26,15 +27,15 @@ const configJson = JSON.stringify({
         <p class="site-description">{site.description}</p>
       </div>
       <div class="site-header__actions">
-        <p class="image-count" aria-live="polite"><span id="visible-count">{initialImages.length}</span> / <span id="matched-count">{manifest.images.length}</span></p>
+        <p class="image-count" aria-live="polite">已显示 <span id="visible-count">{initialImages.length}</span> / 共 <span id="matched-count">{manifest.images.length}</span> 张</p>
       </div>
     </header>
 
-    <nav class="collection-nav" aria-label="图片栏目">
-      <button type="button" class="filter-button is-active" data-collection-filter="all" aria-pressed="true">全部</button>
+    <nav class="collection-nav" aria-label="图片分类">
+      <button type="button" class="filter-button is-active" data-collection-filter="all" aria-pressed="true">全部（{manifest.images.length}）</button>
       {collections.map((collection) => (
         <button type="button" class="filter-button" data-collection-filter={collection.id} aria-pressed="false">
-          {collection.title}
+          {collection.title}（{countFor(collection.id)}）
         </button>
       ))}
     </nav>
@@ -84,7 +85,7 @@ const configJson = JSON.stringify({
 
     <footer class="site-footer">
       <span>{site.title}</span>
-      <span><a href="/about.html">关于与来源</a> · <a href="https://github.com/holynova/world-landmarks/releases/tag/v1.0.4">原图下载</a> · <a href="https://github.com/holynova/world-landmarks">GitHub</a></span>
+      <span><a href="/about.html">关于与来源</a>、<a href="https://github.com/holynova/world-landmarks/releases/tag/v1.0.4">原图下载</a>、<a href="https://github.com/holynova/world-landmarks">GitHub</a></span>
     </footer>
 
     <script type="application/json" id="gallery-manifest" set:html={manifestJson}></script>
