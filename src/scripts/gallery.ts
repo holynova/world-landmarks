@@ -37,6 +37,7 @@ const lightboxAvif = document.querySelector<HTMLSourceElement>('[data-lightbox-a
 const lightboxWebp = document.querySelector<HTMLSourceElement>('[data-lightbox-webp]');
 const lightboxCaption = document.querySelector<HTMLElement>('[data-lightbox-caption]');
 const lightboxPosition = document.querySelector<HTMLElement>('#lightbox-position');
+const collectionNav = document.querySelector<HTMLElement>('.collection-nav');
 
 function variantSrcset(variants: ImageManifest['variants']['thumb']['avif']): string {
   return variants.map((variant) => `${toUrl(variant.src)} ${variant.width}w`).join(', ');
@@ -230,6 +231,16 @@ gallery.addEventListener('click', (event) => {
   if (image) openLightbox(image);
 });
 
+function updateCollectionNavFade(): void {
+  if (!collectionNav) return;
+  const atEnd = collectionNav.scrollLeft + collectionNav.clientWidth >= collectionNav.scrollWidth - 1;
+  collectionNav.classList.toggle('is-at-end', atEnd);
+}
+
+collectionNav?.addEventListener('scroll', updateCollectionNavFade, { passive: true });
+window.addEventListener('resize', updateCollectionNavFade);
+updateCollectionNavFade();
+
 for (const button of document.querySelectorAll<HTMLButtonElement>('[data-collection-filter]')) {
   button.addEventListener('click', () => {
     activeCollection = button.dataset.collectionFilter || 'all';
@@ -254,10 +265,21 @@ shareButton?.addEventListener('click', async () => {
   const image = manifest.images.find((candidate) => candidate.id === currentImageId);
   if (!image) return;
   const shareData = { title: image.caption || image.alt, text: image.alt, url: new URL(`?image=${encodeURIComponent(image.slug)}`, window.location.href).href };
+  const flash = (text: string): void => {
+    if (!shareButton) return;
+    shareButton.textContent = text;
+    setTimeout(() => { shareButton.textContent = '分享'; }, 1800);
+  };
   try {
-    if (navigator.share) await navigator.share(shareData);
-    else if (navigator.clipboard) await navigator.clipboard.writeText(shareData.url);
-    if (shareButton) {shareButton.textContent = '已分享'; setTimeout(() => {shareButton.textContent = '分享';}, 1800);}
+    if (navigator.share) {
+      await navigator.share(shareData);
+      flash('已分享');
+    } else if (navigator.clipboard) {
+      await navigator.clipboard.writeText(shareData.url);
+      flash('链接已复制');
+    } else {
+      flash('无法分享');
+    }
     trackGalleryEvent('share_click', { image_id: image.id, collection: image.collection });
   } catch {
     // A cancelled native share is intentionally silent.

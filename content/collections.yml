@@ -2,43 +2,43 @@
   "collections": [
     {
       "id": "seaside",
-      "title": "海岸夏日 · 5",
+      "title": "海岸夏日",
       "description": "海岸夏日系列原创插画",
       "order": 0
     },
     {
       "id": "scenes",
-      "title": "多样风景 · 5",
+      "title": "多样风景",
       "description": "多样风景系列原创插画",
       "order": 1
     },
     {
       "id": "spain",
-      "title": "西班牙 · 10",
+      "title": "西班牙",
       "description": "西班牙著名景点插画",
       "order": 2
     },
     {
       "id": "china",
-      "title": "中国 · 10",
+      "title": "中国",
       "description": "中国著名景点插画",
       "order": 3
     },
     {
       "id": "japan",
-      "title": "日本 · 10",
+      "title": "日本",
       "description": "日本著名景点插画",
       "order": 4
     },
     {
       "id": "usa",
-      "title": "美国 · 10",
+      "title": "美国",
       "description": "美国著名景点插画",
       "order": 5
     },
     {
       "id": "korea",
-      "title": "韩国 · 10",
+      "title": "韩国",
       "description": "韩国古建、城市与自然景点插画",
       "order": 6
     }
