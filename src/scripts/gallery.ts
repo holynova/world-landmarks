@@ -37,6 +37,7 @@ const lightboxAvif = document.querySelector<HTMLSourceElement>('[data-lightbox-a
 const lightboxWebp = document.querySelector<HTMLSourceElement>('[data-lightbox-webp]');
 const lightboxCaption = document.querySelector<HTMLElement>('[data-lightbox-caption]');
 const lightboxPosition = document.querySelector<HTMLElement>('#lightbox-position');
+const collectionNav = document.querySelector<HTMLElement>('.collection-nav');
 
 function variantSrcset(variants: ImageManifest['variants']['thumb']['avif']): string {
   return variants.map((variant) => `${toUrl(variant.src)} ${variant.width}w`).join(', ');
@@ -229,6 +230,16 @@ gallery.addEventListener('click', (event) => {
   const image = manifest.images.find((candidate) => candidate.id === target.dataset.galleryOpen);
   if (image) openLightbox(image);
 });
+
+function updateCollectionNavFade(): void {
+  if (!collectionNav) return;
+  const atEnd = collectionNav.scrollLeft + collectionNav.clientWidth >= collectionNav.scrollWidth - 1;
+  collectionNav.classList.toggle('is-at-end', atEnd);
+}
+
+collectionNav?.addEventListener('scroll', updateCollectionNavFade, { passive: true });
+window.addEventListener('resize', updateCollectionNavFade);
+updateCollectionNavFade();
 
 for (const button of document.querySelectorAll<HTMLButtonElement>('[data-collection-filter]')) {
   button.addEventListener('click', () => {

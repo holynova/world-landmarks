@@ -17,3 +17,5 @@ v1.0.3: adds all ten earlier originals in seaside/ and scenes/, two groups of fi
 v1.0.4: ten Korean landmark PNGs using hn-paper-gouache required reference images; total sixty; seven collections. Full source URLs and prompts preserved. Existing height-fit lightbox retained.
 
 审计#37（2026-11-14）：60 条标题中间点改括号式（「圣家堂（巴塞罗那）」）；分类名去掉手写计数（改由页面按清单自动计数，避免漂移）；描述去掉版本号；页脚链接分隔改顿号；计数文案改为「已显示 X / 共 Y 张」；分享反馈区分「已分享/链接已复制/无法分享」；关于页去掉内部术语（subagent/incoming 目录）与版本号，来源列表中间点去掉；颜色改暖灰+黛蓝，editorial 主题陶土强调色改黛绿；字号收敛为 0.8rem/1rem/标题 clamp 三种。
+
+筛选区单行横向滚动（2026-11-15，用户明确要求，模板外观约束的具体授权例外，与 #36 同款改法）：审计加计数后按钮变宽，手机上筛选区 4 行、挤占首屏图。改法：筛选区改单行横向滚动（不换行，触屏滑动/键盘 Tab 均可达，右侧 32px 渐隐提示可滑、滑到尽头渐隐消失；鼠标设备显示细滚动条）；张数保留，改小一号（0.8rem）次要灰、去括号，不撑宽按钮；按钮左右内边距 15px→12px，触控高度 44px 不变。计数行、标题、简介、网格、灯箱、颜色、字号档位一律不动。

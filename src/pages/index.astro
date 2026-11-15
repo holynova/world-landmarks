@@ -32,10 +32,10 @@ const configJson = JSON.stringify({
     </header>
 
     <nav class="collection-nav" aria-label="图片分类">
-      <button type="button" class="filter-button is-active" data-collection-filter="all" aria-pressed="true">全部（{manifest.images.length}）</button>
+      <button type="button" class="filter-button is-active" data-collection-filter="all" aria-pressed="true">全部<span class="filter-count">{manifest.images.length}</span></button>
       {collections.map((collection) => (
         <button type="button" class="filter-button" data-collection-filter={collection.id} aria-pressed="false">
-          {collection.title}（{countFor(collection.id)}）
+          {collection.title}<span class="filter-count">{countFor(collection.id)}</span>
         </button>
       ))}
     </nav>
